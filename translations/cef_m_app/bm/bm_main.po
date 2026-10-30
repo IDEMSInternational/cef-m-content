@@ -1,0 +1,19 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: daa333111a978fbe35b08c4ec306e0c7\n"
+"X-Crowdin-Project-ID: 27\n"
+"X-Crowdin-Language: bm\n"
+"X-Crowdin-File: /[IDEMSInternational.cef-m-content] main/translations/cef_m_app/fr/main.pot\n"
+"X-Crowdin-File-ID: 1083\n"
+"Project-Id-Version: daa333111a978fbe35b08c4ec306e0c7\n"
+"Language-Team: Bambara\n"
+"Language: bm_ML\n"
+"PO-Revision-Date: 2026-10-30 16:09\n"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This is a test"
+msgstr ""
+
