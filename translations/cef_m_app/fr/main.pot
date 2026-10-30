@@ -1,3 +1,8 @@
 msgid ""
 msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This is a test"
+msgstr ""
