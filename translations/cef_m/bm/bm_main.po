@@ -10,12 +10,12 @@ msgstr ""
 "Project-Id-Version: daa333111a978fbe35b08c4ec306e0c7\n"
 "Language-Team: Bambara\n"
 "Language: bm_ML\n"
-"PO-Revision-Date: 2026-11-05 14:35\n"
+"PO-Revision-Date: 2026-11-05 14:41\n"
 
 #. type=global
 msgctxt "global"
 msgid "1 drm = 5 FCFA"
-msgstr ""
+msgstr "1 drm = 5 FCFA in bambara"
 
 #. type=global
 msgctxt "global"
