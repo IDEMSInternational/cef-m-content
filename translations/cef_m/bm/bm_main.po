@@ -10,22 +10,22 @@ msgstr ""
 "Project-Id-Version: daa333111a978fbe35b08c4ec306e0c7\n"
 "Language-Team: Bambara\n"
 "Language: bm_ML\n"
-"PO-Revision-Date: 2026-11-26 13:50\n"
+"PO-Revision-Date: 2026-11-26 14:25\n"
 
 #. type=global
 msgctxt "global"
 msgid "Montant prévisionnel des dépenses annuelles de condiments de l'UPA:"
-msgstr ""
+msgstr "Cikɛda ka san kelen na sɔngɔ musaka ɲɛbilata hakɛ ye: "
 
 #. type=global
 msgctxt "global"
 msgid "Montant prévisionnel des dépenses annuelles de santé humaine de l'UPA:"
-msgstr ""
+msgstr "Cikɛda ka san kelen kɛnɛya musaka ɲɛbila hakɛ ye:"
 
 #. type=global
 msgctxt "global"
 msgid "Le calcul est fait en multipliant 3000 drm par le nombre de personnes qui résideront dans l'UPA"
-msgstr ""
+msgstr "Jatebɔ bɛ kɛ ni drm 3000 caya ye ni mɔgɔ hakɛ ye minnu bɛ cikɛda kɔnɔ."
 
 #. type=global
 msgctxt "global"
@@ -36,7 +36,14 @@ msgid "Il s'agit du frais de scolarité des enfants de 7 à 25 ans.\n\n"
 "- Le nombre d'enfants scolarisés **au niveau lycée ou école professionnelle** le frais annuel de scolarité par enfant.\n"
 "- Le nombre d'enfants scolarisés **au niveau universitaire** et les frais annuels de scolarité par enfant.\n\n\n"
 "Ensuite, on additionne les montants prévisionnels de tous les niveaux pour obtenir le montant total prévisionnel des dépenses annuelles de l'éducation."
-msgstr ""
+msgstr "Cikɛda denmisɛnw ka san kalan musakaw ɲɛbila jate kɛ cogo:\n"
+"Nin bɛ denmisɛnw , minnu si bɛ san 7 fo san 25, ka kalan kow musakaw kan.\n"
+"Walasa k’o kɛ, denmisɛnw minnu bɛna kɛ kalan da kelen la musakaw bɛ jatebɔ fɔlɔ. Kalan da kelen kalandenw ka musakaw mumɛ bɛ bɛn ni kalenden kelen ka musaka sigiyɔrɔ ma hakɛ ye mɔgɔw hakɛ la.\n"
+"- Denmisɛn hakɛ minnu tɔgɔ sɛbɛnna *kun fɔlɔ kalanda la* ani mɔgɔ kelen ka musaka san kɔnɔ ;\n"
+"- Denmisɛn hakɛ minnu tɔgɔ sɛbɛnna *kun filana kalanda la* ani  mɔgɔ kelen ka musaka san kɔnɔ ;\n"
+"- Denmisɛn hakɛ minnu tɔgɔ sɛbɛnna * sanfɛ walima baara ɲɛdon kalanda la* ani  mɔgɔ kelen ka musaka san kɔnɔ;\n"
+"- Denmisɛn hakɛ minnu tɔgɔ sɛbɛnna *Kalanso ba la* ani  mɔgɔ kelen ka musaka san kɔnɔ;\n"
+"O kɔfɛ, kalan daw musakaw hakɛw bɛ fara ɲɔgɔn kan walasa ka san kura kalan kow musakaw mumɛ ɲɛbila bɛɛ sɔrɔ."
 
 #. type=global
 msgctxt "global"
@@ -57,12 +64,12 @@ msgstr ""
 #. type=global
 msgctxt "global"
 msgid "Donnez le montant d'autre dépénse prévisionnelle:"
-msgstr ""
+msgstr "Musaka misɛnnin wɛrɛ ɲɛbilalen  hakɛ sɛbɛn:"
 
 #. type=global
 msgctxt "global"
 msgid "Donnez le montant d'autre dépénse d'investissement:"
-msgstr ""
+msgstr "Musaka ba wɛrɛ nin ɲɛbilata hakɛ sɛbɛn:"
 
 #. type=global
 msgctxt "global"
@@ -72,7 +79,11 @@ msgid "Les autres formulaires de planification qui completent ce formulaire sont
 "- **Fumure organique de l'UPA**.\n"
 "---\n\n"
 "**MERCI**"
-msgstr ""
+msgstr "Bolodali sɛbɛnfura wɛrɛ minnu bɛ nin sɛbɛnfura in dafa ye:\n"
+"-***Cikɛda mɔgɔw ka balo***;\n"
+"-***Cikɛda baganw ka balo***;\n"
+"-***Cikɛda nɔgɔfin ko dugukolo ɲɛnamayali kama***.\n"
+"======= I NI CE========"
 
 #. type=global
 msgctxt "global"
@@ -81,7 +92,11 @@ msgid "La recherche recommande d'appliquer une quantité de fumure allant de 3 �
 "**Fumure organique de très bonne qualité**: fumier riche, par exemple, 3T/ha;\n\n"
 "**Fumure organique de moyenne qualité**: compost de qualité riche à moyenne, par exemple,  5T/ha;\n\n"
 "**Fumure organique  de mauvaise qualité**: tas d'ordures  ou compost faiblement décomposé, par exemple, 7T/ha."
-msgstr ""
+msgstr "Ka kɛɲɛ ni nɔgɔfin ɲɛcogo ye, a ka ɲi ka nɔgɔfin toni 3 fo ka se toni 7 ma yɛrɛkɛ taari la san saba o san saba (IER/CMDT ani Blanchard ni atow, 2014).\n"
+"Nɔgɔfinw suguya danfaralenw ye:\n"
+"***Nɔgɔfin ɲuman*** : nɔgɔfin tolilen nafama toni 3 taari la;\n"
+"***Nɔgɔfin cɛmancɛman*** : nɔgɔ dinŋɛ nɔgɔfin (kɔmposi) toni  5 taari la;\n"
+"***Nɔgɔfin koloman***: nɔgɔ min ma toli kosɛbɛ (sunnukun nɔgɔ), toni 7 taari la."
 
 #. type=global
 msgctxt "global"
@@ -90,37 +105,42 @@ msgid "Selon les producteurs, il faut appliquer une quantité de fumure organiqu
 "**Compost**: 80 charrettées/ha pour un sol sablonneux, limoneux ou gravionnaire ;\n\n"
 "**Fumier**: 80 charrettées/ha pour un sol sablonneux, limoneux ou gravionnaire ;\n\n"
 "**Ordures ménagères**: 100 charrettées/ha pour un sol sablonneux, limoneux ou gravillonnaire."
-msgstr ""
+msgstr "Senekɛlaw ka fɔ ko, i ka kan ka nɔgɔfin wotoro 80 ka se 100 ma don taari la sɛnɛli saba wati kɔnɔ (walima san saba la, sɛnɛ wati kelen ye san kelen kɔnɔ), ka ben ni nɔgɔfin walima dugukolo suguya ye.\n"
+"Nɔgɔfin suguyaw ye :\n"
+"***Nɔgɔdinŋɛ nɔgɔ***: wotoroɲɛ 80  taari kelen, cɛncɛn, bɔgɔ wali bɛlɛ dugukolo la ;\n"
+"***Misi bo wali sinzan nɔgɔ***: wotoroɲɛ 80  taari kelen, cɛncɛn, bɔgɔ wali bɛlɛ dugukolo la ;\n"
+"***Sunungun nɔgɔ***: wotoroɲɛ 100  taari kelen, cɛncɛn, bɔgɔ wali bɛlɛ dugukolo la.\n"
 
 #. type=global
 msgctxt "global"
 msgid "Votre UPA doit produire assez de fumure organique  pour fertiliser un tiers de sa superficie totale, afin de boucler un cycle complet de rotation pour le maintien de la fertilité du sol. \n"
 "Quelle que soit la superficie de l'UPA, la quantité annuelle de fumure organique produite doit être suffisante pour couvrir entièrement un tiers de sa superficie. Par exemple, le schéma ci-dessous illustre un système de rotation annuelle de coton-maïs-mil/sorgho sur trois ans."
-msgstr ""
+msgstr "Cikɛda ka kan ka nɔgɔfin caman labɛn ka foro kɛnɛ mumɛ sabanna kelen la bɔ (foro kɛnɛ mumɛ tilalen ye saba ye), walasa ka sɛnɛfɛnw fɔɲɔgɔn kɔ ko kelen bato ani ka dugukolo ɲɛnamali sabati.\n"
+"Cikɛda dugukolo mana caya cogo o cogo, san nɔgɔfin labɛnlen hakɛ ka kan ka foro kɛnɛ mumɛ sabanna kelen labɔ. Misali la, ja min filɛ duguma bɛ san saba fɔɲɔgɔn kɔli cogo jira sɛnɛfenw la, san o san kɛnɛw kan, kɔɔri, kaba ani saŋɔ wali keniŋe la."
 
 #. type=global
 #. The string @fields.quantite_total_fumure_organique should not be translated.
 msgctxt "global"
 msgid "La quantité totale de fumure organique produite cette année est: @fields.quantite_total_fumure_organique charrétée"
-msgstr ""
+msgstr "Nɔgɔfin hakɛ labenlen ɲinan ye: worotoɲɛ  @fields.quantite_total_fumure_organique  "
 
 #. type=global
 #. The string @fields.quantite_total_fumure_organique should not be translated.
 msgctxt "global"
 msgid "Donnez la superficie fertilisable/fertilisée (ha) avec les @fields.quantite_total_fumure_organique charrettées de fumure organique:"
-msgstr ""
+msgstr "Nɔgɔfin labɛnlen wotoro  @fields.quantite_total_fumure_organique  bɛɛ yɛrɛkɛ la foro kɛnɛ taari hakɛ min la di:"
 
 #. type=global
 #. The string (@fields.quantite_total_fumure_organique should not be translated.
 msgctxt "global"
 msgid "Le niveau de production annuelle de la fumure organique (@fields.quantite_total_fumure_organique charrettée) de l'UPA permet de respecter un cycle de rotation de 3 ans."
-msgstr ""
+msgstr "Cikɛda ka san kelen nɔgɔfin labɛnlen hakɛ (wotoro  @fields.quantite_total_fumure_organique ) *bɛ se ka* san saba fɔɲɔgɔn kɔ kɛ cogo bato."
 
 #. type=global
 #. The string (@fields.quantite_total_fumure_organique should not be translated.
 msgctxt "global"
 msgid "Le niveau de production annuelle de la fumure organique de l'UPA (@fields.quantite_total_fumure_organique charrettées) de l'UPA ne permet pas de fertiliser toute la superficie de l'UPA en trois ans."
-msgstr ""
+msgstr "Cikɛda ka san kelen nɔgɔfin labɛnlen hakɛ (wotoro  @fields.quantite_total_fumure_organique ) *tɛ se kɛ ka* san saba fɔɲɔgɔn kɔ kɛ cogo bato."
 
 #. type=global
 #. The following strings should not be translated: 
@@ -131,7 +151,8 @@ msgstr ""
 msgctxt "global"
 msgid "L'UPA doit fertiliser annuellement @local.superficie_rotation ha avec la fumure organique pour maintenir la fertilité et la durabilité de son sol. \n\n"
 "Cependant, la production annuelle de fumure organique de l'UPA couvre @fields.portion_fertilisable ha, laissant un gap annuel de @local.gap_annuel ha et un gap rotatif de @local.gap_cycle ha en trois ans."
-msgstr ""
+msgstr "Cikeda ka kan ka taari  @local.superficie_rotation  nɔgɔfin do san o san, walasa k’a ka dugukolo ɲenamaya kuntagala jan kɔnɔ.\n\n"
+"Nka, cikeda ka san kelen nɔgɔfin labɛnlen hakɛ bɛ bɛn taari  @fields.protion_fertilisable  ma, o la san o san danfara tolen bɛ bɛn taari  @local.gap_annuel  ani fɔɲɔgɔn kɔ danfara tolen taari  @local.gap_cycle  san saba kɔnɔ."
 
 #. type=global
 #. The following strings should not be translated: 
@@ -141,13 +162,14 @@ msgstr ""
 msgctxt "global"
 msgid "1. Pratiquez une rotation triennale (par exemple, coton-maïs-mil/sorgho) sur la partie fertilisable de la superficie totale (@local.superficie_cycle ha) suivant l'apport annuel de la fumure organique sur @fields.portion_fertilisable ha de votre UPA;\n"
 "2. Cultivez le reste de la superficie (@local.gap_cycle ha) avec des légumineuses et d'autres cultures (plantes fourragères) qui restaurent la fertilité du sol."
-msgstr ""
+msgstr "1. Ka san saba fɔɲɔgɔn kɔ waleya (misali la,  san 1fɔ kɔɔri ye,  san 2na kaba ye, ni san 3na saŋɔ) foro kɛnɛ mumɛ fan min bɛ se kɛ nɔgɔfin sɔrɔ (taari  @local.superficie_cycle ) ka tugu san o san nɔgɔfin yɛrɛkɛli la taari  @fields.protion_fertilisable  kɔnɔ cikɛda fɛ.\n"
+"2. ka yɔrɔ tɔ sɛnɛ (taari  @local.gap_cycle ) min tɛ nɔgɔfin sɔrɔ san saba kɔnɔ  ni shɔw ni sɛnɛfɛn wɛrɛw ye (bagan balo jiriw) minnu bɛ dɔfara dugukolo fanga ka."
 
 #. type=global
 #. The string (@fields.quantite_total_fumure_organique should not be translated.
 msgctxt "global"
 msgid "Le niveau de production annuelle de la fumure organique de l'UPA (@fields.quantite_total_fumure_organique charrétées) de l'UPA ne permet pas de fertiliser toute sa superficie en trois ans."
-msgstr ""
+msgstr "Cikɛda ka san kelen nɔgɔfin labɛnlen hakɛ (wotoro  @fields.quantite_total_fumure_organique ) *tɛ se kɛ ka* san saba fɔrɔ kɛnɛ fɔɲɔgɔn kɔ kɛ cogo bato."
 
 #. type=global
 #. The following strings should not be translated: 
@@ -156,7 +178,7 @@ msgstr ""
 #.      (@fields.superficie_exploitation
 msgctxt "global"
 msgid "Après trois ans, @local.gap_cycle ha ou @local.gap_cycle_pour100 % de la superficie totale de l'UPA (@fields.superficie_exploitation ha) ne recevra pas de fumure organique."
-msgstr ""
+msgstr "San saba tɛmɛnen kɔfɛ, taari  @local.gap_cycle  walima  @local.gap_cycle_pour100 % cikɛda ka foro mumɛ na (taari  @fields.superficie_exploitation ) tɛna nɔgɔfin sɔrɔ."
 
 #. type=global
 #. The following strings should not be translated: 
@@ -167,7 +189,8 @@ msgstr ""
 msgctxt "global"
 msgid "L'UPA doit fertiliser annuellement @local.superficie_rotation ha avec la fumure organique pour maintenir la fertilité et la durabilité de son sol. \n\n"
 "Cependant, la production de fumure organique de l'UPA couvre @fields.protion_fertilisable ha laissant un gap annuel de @local.gap_annuel ha et un gap rotatif de @local.gap_cycle ha en trois ans."
-msgstr ""
+msgstr "Cikeda ka kan ka nɔgɔfin yɛrɛkɛ taari  @local.superficie_rotation  san o san, walasa k’a ka dugukolo ɲenamaya kuntagala jan kɔnɔ.\n\n"
+"Nka, cikeda ka san kelen nɔgɔfin labɛnlen bɛ bɛn taari  @fields.protion_fertilisable  hakɛ ma, o la san o san danfara tolen bɛ bɛn taari  @local.gap_annuel  ani fɔɲɔgɔn kɔ danfara tolen taari  @local.gap_cycle  san saba kɔnɔ."
 
 #. type=global
 #. The following strings should not be translated: 
@@ -179,7 +202,9 @@ msgctxt "global"
 msgid "1. Pratiquez une rotation triennale (par exemple, coton-maïs-mil/sorgho) sur une partie de la superficie totale (@local.superficie_cycle ha) suivant l'apport annuel de la fumure organique sur @fields.portion_fertilisable ha de votre UPA;\n\n"
 "2. Cultivez des légumineuses ou d'autres cultures (plantes fourragères) qui restaurent la fertilité sur la partie du sol (@local.gap_cycle} ha) qui n'a pas reçu de fumure de organique depuis 3 ou 4 ans;\n\n"
 "3. Pratiquez la jachère améliorée avec des cultures de couverture (comme les légumineuses fourragères) sur l'autre partie du sol  (@local.gap_cycle ha) qui n'a pas reçu de fumure organique depuis 5 ans ou plus."
-msgstr ""
+msgstr "1. Ka san saba fɔɲɔgɔn kɔ waleya (misali la,  san 1fɔ kɔɔri ye,  san 2na kaba ye, ni san 3na saŋɔ) foro kɛnɛ mumɛ fan min bɛ se kɛ nɔgɔfin sɔrɔ (taari  @local.superficie_cycle ) ka tugu san o san nɔgɔfin yɛrɛkɛli la taari  @fields.protion_fertilisable  kɔnɔ cikɛda fɛ.\n"
+"2. Ka shɔw walima sɛnɛfɛn wɛrɛw sɛnɛ (bagan balo jiriw) minnu bɛ dɔ fara dugukolo fanga cikɛda ka foro kɛnɛ (taari  @local.gap_cycle ) min ma nɔgɔ sɔrɔ san saba fo san nani kɔnɔ.\n"
+"3.  Ka sɛnɛfɛn datugulan nafamaw (i n’a fɔ bagan balo sɛnɛfɛnw) sɛnɛ dugukolo to sɛnɛ bali la min ma nɔgɔfin sɔrɔ (taari  @local.gap_cycle ) san duru kɔnɔ ka of san cama ka yɛlɛ."
 
 #. type=global
 msgctxt "global"
@@ -205,7 +230,17 @@ msgid "L'institut d'Économie Rurale (IER) et ses partenaires co-développent av
 "Les informations collectées et les résultats générés sont confidentiels et seront stockées d’une façon sécurisée par l’Institut d’Économie Rurale (IER).\n"
 "Nous confirmons que les données ne seront utilisées que par notre équipe et seulement à des fins de recherche.\n\n"
 "---"
-msgstr ""
+msgstr "Mali ka sɛnɛ ɲinili soba (IER) ni jεɲɔgɔw bɛ ɲinili la sɛnɛ baara bolo dali ni kimɛli ni bolola telefoni ye. Nin telefoni baara minεn ɲinili baara bε kε ni sεnεkεlaw ye.\n\n"
+"Bolola telefoni baara minɛn in bɛ tali kɛ yɔrɔ saba ka: \n"
+"(1) Samiɲɛ baara bolo dali Marisi ni Mɛ kalo cɛ,\n"
+"(2) Samiɲɛ kɔnɔ baaraw nɔn minɛli, ka bɔ Juɲɛ kalo ka taa Nowamburu kalo la, ani \n"
+"(3) Samiɲɛ sɔrɔ kimɛli Desamburu ni Fewuruye kalo cɛ, ani san tɛmɛlen kunafoni\n\n"
+"Kunafoniw bɛ ta yɔrɔ sabaɲi kelen-kelen bɛ ka sɛnɛkɛlaw fɛ, \n"
+"Kunafoni talen bɛ mara ni ka kimɛ, ka kɔmasɛki kɛ jabi sɔrɔ len ka sɛnɛkɛlaw ma.\n"
+"Kunafoni kɔmasekilen bɛ sɛnɛkɛlaw dɛmɛ aka cikɛda minɛ cogo ɲuma ka.\n"
+"Kunafoni talenw ni jabi sɔrɔlen bɛ lakana kɔsɛbɛ ŋindo la sɛnɛkɛla ni porojɛ cɛ. Ŋa, sɛnɛkɛla (wali Cikɛda) dron bɛ se ka'a ka kunafoniw laajɛ bɔlɔlɔ nin sira nin fɛ: www.cef-mobile.org.\n"
+"An ba sinsinya ko kunafoni ni jabi nimu dadɔlen do porojɛ ka ɲinili baara kama ani ka sɛnɛkɛla dɛmɛ a k'a hakilila taliw la. \n"
+"I bɛ son ka do ɲinili baara la?"
 
 #. type=global
 msgctxt "global"
@@ -220,7 +255,7 @@ msgstr ""
 #. type=global
 msgctxt "global"
 msgid "Voudriez-vous participer ?"
-msgstr ""
+msgstr "Yala i b’a fɛ ka i sen don o la wa?"
 
 #. type=global
 msgctxt "global"
@@ -230,7 +265,7 @@ msgstr ""
 #. type=global
 msgctxt "global"
 msgid "📅Aucune date choisie"
-msgstr ""
+msgstr "📅Don si ma sugandi"
 
 #. type=global
 msgctxt "global"
@@ -245,42 +280,42 @@ msgstr ""
 #. type=global
 msgctxt "global"
 msgid "Sélectionnez le nom de la région de l'UPA"
-msgstr ""
+msgstr "Marabolo tɔgɔ taa"
 
 #. type=global
 msgctxt "global"
 msgid "Selectionnez le nom du cercle de l'UPA"
-msgstr ""
+msgstr "Lamini tɔgɔ taa"
 
 #. type=global
 msgctxt "global"
 msgid "Selectionnez le nom de la commune de l'UPA"
-msgstr ""
+msgstr "Komini tɔgɔ taa"
 
 #. type=global
 msgctxt "global"
 msgid "Selectionnez le nom du village de l'UPA"
-msgstr ""
+msgstr "Dugu tɔgɔ taa"
 
 #. type=global
 msgctxt "global"
 msgid "Précisez le nom de l'autre activité primaire"
-msgstr ""
+msgstr "Baara fɔlɔ wɛrɛ tɔgɔ"
 
 #. type=global
 msgctxt "global"
 msgid "Précisez le nom de l'autre activité secondaire"
-msgstr ""
+msgstr "Baara wɛrɛ tɔgɔ sɛbɛn"
 
 #. type=global
 msgctxt "global"
 msgid "Cette activité est déjà votre activité principale."
-msgstr ""
+msgstr "Nin baara in ye i ka baara fɔlɔ ye kaban."
 
 #. type=global
 msgctxt "global"
 msgid "Saisissez la superficie totale possédée par l’UPA (ha)"
-msgstr ""
+msgstr "Forokɛnɛ mumɛ min bɛ cikɛda bolo (taari)"
 
 #. type=global
 msgctxt "global"
@@ -290,12 +325,12 @@ msgstr ""
 #. type=global
 msgctxt "global"
 msgid "Saisissez la superficie totale cultivée par l’UPA (ha)"
-msgstr ""
+msgstr "Forokɛnɛ hakɛ min bɛ sɛnɛ cikɛda fɛ (taari)"
 
 #. type=global
 msgctxt "global"
 msgid "Erreur : la surface cultivée dépasse la surface possédée!"
-msgstr ""
+msgstr "Fili: Forokɛnɛ hakɛ min bɛ sɛnɛ cikɛda tiayara ni Forokɛnɛ mumɛ min bɛ cikɛda bolo "
 
 #. type=global
 #. The string @local.upa_membres) should not be translated.
@@ -309,28 +344,28 @@ msgstr ""
 #.      (@local.upa_membres)
 msgctxt "global"
 msgid "La somme des personnes de différentes catégories d'âge (@local.check_total) doit être égale au nombre de personnes dans l'UPA  déclaré ci-dessus (@local.upa_membres)"
-msgstr ""
+msgstr "Demisɛw, cew ni musow, ma kɔrɔ hakɛ(@local.check_total) kan ka kaben cikɛda mɔgɔ hakɛ dilen ma (@local.upa_membres)"
 
 #. type=global
 msgctxt "global"
 msgid "Nombre de pulvérisateurs ou herses"
-msgstr ""
+msgstr "Cikɛda hɛrɛsi hakɛ"
 
 #. type=global
 msgctxt "global"
 msgid "Écrivez le nom autre matériel ou écrire \"Aucun\""
-msgstr ""
+msgstr "Cikɛ minɛn wɛrɛ in tɔgɔ sɛbɛn walima sɛbɛn \"foyi\" ni minɛn wɛrɛ teyi"
 
 #. type=global
 #. The string (@fields.autre_materiel) should not be translated.
 msgctxt "global"
 msgid "Nombre autre materiel (@fields.autre_materiel)"
-msgstr ""
+msgstr "Cikɛda minen wɛrɛ in (@fields.autre_materiel) hakɛ di"
 
 #. type=global
 msgctxt "global"
 msgid "Nombre  de poulets"
-msgstr ""
+msgstr "Cikɛda siɛ hakɛ"
 
 #. type=global
 msgctxt "global"
@@ -346,12 +381,12 @@ msgstr ""
 #. type=global
 msgctxt "global"
 msgid "Choisissez l'année:"
-msgstr ""
+msgstr "San sugandi:"
 
 #. type=global
 msgctxt "global"
 msgid "Aucune information trouvée pour cette année."
-msgstr ""
+msgstr "Kunnafoni si ma Sɔrɔ ni san kɔnɔ."
 
 #. type=global
 msgctxt "global"
@@ -361,27 +396,27 @@ msgstr ""
 #. type=global
 msgctxt "global"
 msgid "Besoins planifiés des humains"
-msgstr ""
+msgstr "BALO ƝƐBILALEN"
 
 #. type=global
 msgctxt "global"
 msgid "Nombre de personnes à nourrir de l'UPA"
-msgstr ""
+msgstr "Cikɛda mɔgɔ hakɛ balo ta ɲɛbilalen"
 
 #. type=global
 msgctxt "global"
 msgid "Besoins en céréales de l'UPA (sacs)"
-msgstr ""
+msgstr "Suman hakɛ ɲɛbilalen balo kama (bɔrɛ)"
 
 #. type=global
 msgctxt "global"
 msgid "Besoins planifiés des animaux"
-msgstr ""
+msgstr "BAGAN BALO ƝƐBILALEN"
 
 #. type=global
 msgctxt "global"
 msgid "Quantité totale de son et tourteau (sacs)"
-msgstr ""
+msgstr "Turuto ni bu hakɛ mumɛ (bɔrɛ)"
 
 #. type=global
 msgctxt "global"
@@ -406,57 +441,57 @@ msgstr ""
 #. type=global
 msgctxt "global"
 msgid "Montant total des dépenses effectuées"
-msgstr ""
+msgstr "Musaka mumɛ minu kaira "
 
 #. type=global
 msgctxt "global"
 msgid "Frais de transport"
-msgstr ""
+msgstr "Tolinɔgɔ donisara"
 
 #. type=global
 msgctxt "global"
 msgid "Coût du labour"
-msgstr ""
+msgstr "Laburu sara sɔngɔ"
 
 #. type=global
 msgctxt "global"
 msgid "Coût du buttage"
-msgstr ""
+msgstr "Faranɔgɔ sɔngɔ"
 
 #. type=global
 msgctxt "global"
 msgid "Coût des semences achetées"
-msgstr ""
+msgstr "Dannisi sannen sɔngɔ"
 
 #. type=global
 msgctxt "global"
 msgid "Coût du désherbage"
-msgstr ""
+msgstr "Binnagasi kɔli donnen sɔngɔ"
 
 #. type=global
 msgctxt "global"
 msgid "Coût du sarclage"
-msgstr ""
+msgstr "Siɲɛli sarala sɔngɔ"
 
 #. type=global
 msgctxt "global"
 msgid "Coût des engrais"
-msgstr ""
+msgstr "Nɔgɔfin mɔninkuru sɔngɔ"
 
 #. type=global
 msgctxt "global"
 msgid "Coût de l’herbicide"
-msgstr ""
+msgstr "Binnagasi donnen sɔngɔ"
 
 #. type=global
 msgctxt "global"
 msgid "Coût de la récolte"
-msgstr ""
+msgstr "Forobɔli sara sɔngɔ"
 
 #. type=global
 msgctxt "global"
 msgid "Coût du battage"
-msgstr ""
+msgstr "Sɛgɛnin donnen sɔngɔ"
 
 #. type=global
 msgctxt "global"
@@ -471,7 +506,13 @@ msgid "L’alimentation des animaux constitue un défi majeur durant la saison s
 "-**Fourrages**\n"
 "-**Résidus de cultures**\n"
 "Ce formulaire a pour objectif d'aider à planifier l’alimentation des animaux durant la saison sèche-chaude en fonction de l'objectif d’alimentation de chaque catégorie animale de l’UPA et leur nombre prévu en saison sèche."
-msgstr ""
+msgstr "Baganw baloli ye gɛlɛyaba ye tileman waati (a ta zanwuyekalo ka taa zuwɛnkalo) Sahel kɔnɔ.\n"
+"Walasa ka nin gɛlɛya in nɔgɔya, a ka kan ka bolodali ka kɛ bagan balo sɔrɔcogo la:\n"
+"-**Turuto**\n"
+"-**Bagan balo sɛnɛlenw**\n"
+"-**sɛnɛfɛnw kala** \n"
+"ka bɛn ni cikɛda laɲini ma bagan suguya kelen-kelen bɛɛ balo kan ani u hakɛ ɲɛbilalen tileman waati la.\n"
+"Nin sɛbɛn furu in dabɔ la ka dɛmɛ don bolodali la tileman waati baganw balo kama."
 
 #. type=global
 msgctxt "global"
@@ -487,7 +528,7 @@ msgid "**Les différents régimes alimentaires pour le(s) @item.text en saison s
 "- ***Le pâturage libre:*** les @item.text s'alimentent exclusivement à partir des pâturages naturels des parcours pastoraux du terroir;\n"
 "- ***La supplémentation simple:***  le pâturage libre dans la journée + 1 kg de fanes/foins + 3 kg de paille de céréales chaque nuit  durant toute la saison sèche-chaude; \n"
 "- ***La supplémentation améliorée :***  le pâturage libre dans la journée toute la saison sèche-chaude + supplémentation simple chaque nuit (janvier-mars) et 1 kg de tourteau + 2 kg de fanes/foins + 5 kg de paille de céréales (Avril-juin)"
-msgstr ""
+msgstr "Bagan balo fɛrɛ minnu beye @item.text   kama tileman waati la (ka ta zanwuyekalo fo zuwɛnkalo), olu ye :# - ***Baganmarayɔrɔ gansan :*** @item.text   bɛ balo sigida baganmarayɔrɔw la tileman kɔnɔ ; - ***Farangali gansan :*** baganmarayɔrɔ gansan tile fɛ + shɔ kala/bin jalen kilo 1 + ɲɔ kala kilo 3 su fɛ tileman waati bɛɛ kɔnɔ ; - ***Farangali ɲɛnaman :*** baganmarayɔrɔ gansan tile fɛ tileman waati bɛɛ la + farangali nɔgɔman sufɛ (ka ta zanwiyekalo fo marisikalo) ani turuto kilo 1 + shɔ kala/bin jalen kilo 2 + ɲɔ kala kilo 5 (ka ta awirilikalo fo zuwɛnkalo)"
 
 #. type=global
 #. The following strings should not be translated: 
@@ -496,7 +537,8 @@ msgstr ""
 msgctxt "global"
 msgid "Les différents régimes alimentaires pour le (s) @item.text  en trois (3) mois durant la saison sèche-chaude (janvier-juin) sont :\n"
 "- ***La stabulation:*** le(s) @item.text  sont maintenus et nourris sur place avec 2 kg de tourteau de coton, 2 kg de fanes/foins et 7 kg de pailles de céréales."
-msgstr ""
+msgstr "#Bagan balo fɛrɛ minnu beye @item.text  kama tileman waati kalo saba kɔnɔ (ka ta zanwuyekalo fo zuwɛnkalo), olu ye :#\n"
+"- ***To yɔrɔ kelen balo:*** @item.text bɛ siri yɔrɔ kelen ka balo ni turutu kilo 2 ye, ni shɔ kala/bin jalen kilo 2 ani ɲɔ kala kilo 7 ye."
 
 #. type=global
 #. The following strings should not be translated: 
@@ -510,7 +552,12 @@ msgid "Les différents régimes alimentaires pour le (s) @item.text en saison s�
 "- ***La supplémentation simple:***  le pâturage libre dans la journée + 1kg de fanes/foins + 2 kg de pailles de céréales chaque nuit  durant toute la saison sèche-chaude; \n"
 "- ***La supplémentation améliorée :***  le pâturage libre dans la journée toute la saison sèche-chaude + supplementation simple (janvier-mars) et 2 kg de tourteau + 2kg de fanes/foins + 5 kg de pailles de céréales (avril-Juin) ;\n"
 "- ***La stabulation:*** le (s) @item.text sont nourries en supplementation simple (durant trois mois) et ensuite maintenues et nourries sur place avec 3 kg de fanes/foins + 2 kg de tourteau de coton + 3 kg paille de céréale (durant trois autres mois)."
-msgstr ""
+msgstr "#Bagan balo fɛrɛ minnu beye @item.text  kama tileman waati la (ka ta zanwuyekalo fo zuwɛnkalo), olu ye :#\n"
+"- ***Baganmarayɔrɔ gansan :*** @item.text bɛ balo baganmarayɔrɔw dɔrɔn la tileman kɔnɔ ;\n"
+"- ***Taayɔrɔjan balo :*** baganmarayɔrɔ gansan taa yɔrɔjanw la ;\n"
+"- ***Farangali gansan :*** baganmarayɔrɔ gansan tile fɛ + shɔ kala/bin jalen kilo 1 +  ɲɔ kala kilo 2 su fɛ tileman waati bɛɛ kɔnɔ ;\n"
+"- ***Farangali ɲɛnaman :*** baganmarayɔrɔ gansan tile fɛ tileman waati bɛɛ la + farangali nɔgɔman su fɛ (ka ta zanwiyekalo fo marisikalo) ani turuto kilo 2 + shɔ kala/bin jalen kilo 2 + ɲɔ kala kilo 5 (ka ta awirilikalo fo zuwɛnkalo)\n"
+"- ***To yɔrɔ kelen balo: *** @item.text bɛ balo ni farangali gansan ye (kalo saba kɔnɔ) o kɔfɛ, u bɛ siri yɔrɔ kelen ka balo ni shɔ kala/bin jalen kilo 3 ye + turuto kilo 2 + ɲɔ kala kilo 3 (kalo saba wɛrɛ kɔnɔ)."
 
 #. type=global
 #. The following strings should not be translated: 
@@ -521,7 +568,10 @@ msgid "Les différents régimes alimentaires pour le (s) @item.text en saison s�
 "- ***Le pâturage libre:*** le (s) @item.text s'alimentent exclusivement à partir des pâturages naturels des parcours pastoraux du terroir;\n"
 "- ***Le transhumance:***le pâturage libre sur des parcours pastoraux lointains;\n"
 "- ***La complémentation simple:***  le pâturage libre dans la journée +  1kg de fanes/foins+ 3 kg de pailles de céréales chaque nuit  durant toute la saison sèche-chaude."
-msgstr ""
+msgstr "#Bagan balo fɛrɛ minnu beye @item.text kama tileman waati la (ka ta zanwuyekalo fo zuwɛnkalo), olu ye :#\n"
+"- ***Baganmarayɔrɔ gansan :*** @item.text bɛ balo baganmarayɔrɔw dɔrɔn la tileman kɔnɔ ;\n"
+"- ***Taayɔrɔjan balo :***baganmarayɔrɔ gansan taa yɔrɔjanw kan ;\n"
+"- ***Farangali gansan :*** baganmarayɔrɔ gansan tile fɛ + shɔ kala/bin jalen kilo 1 +  ɲɔ kala kilo 3 su fɛ tileman waati bɛɛ kɔnɔ ;"
 
 #. type=global
 #. The following strings should not be translated: 
@@ -532,14 +582,17 @@ msgctxt "global"
 msgid "Les différents régimes alimentaires pour le (s) @item.text en saison sèche-chaude (janvier-juin) sont :\n"
 "- ***Le pâturage libre:*** les @item.text s'alimentent exclusivement à partir des pâturages naturels des parcours pastoraux du terroir;\n"
 "- ***La stabulation:*** le(s) @item.text est/sont maintenu(s) et nourri(s) sur place avec 1 kg de fânes/foins + 1kg de son de céréales + 2 kg paille de céréale."
-msgstr ""
+msgstr "#Bagan balo fɛrɛ minnu beye @item.text kama tileman waati la (ka ta zanwuyekalo fo zuwɛnkalo), olu ye :#\n"
+"- ***Baganmarayɔrɔ gansan :*** @item.text bɛ balo baganmarayɔrɔw dɔrɔn la tileman kɔnɔ ;\n"
+"- ***To yɔrɔ kelen balo :*** @item.text bɛ siri yɔrɔ kelen ka balo ni shɔ kala/bin jalen kilo 1 ye + ɲɔ bu kilo 1 + ɲɔ kala 2"
 
 #. type=global
 #. The string @item.text should not be translated.
 msgctxt "global"
 msgid "Les différents régimes alimentaires pour le (s) @item.text en trois (3) mois durant saison sèche-chaude (janvier-juin) sont :\n"
 "- ***La stabulation:*** 4 kg des feuilles d’arbres (=1,5 kgMS de fanes) + 0,5 kg de son de céréales (ou de tourteau de coton)."
-msgstr ""
+msgstr "#Bagan balo fɛrɛ minnu beye @item.text kama tileman waati kalo saba kɔnɔ (ka ta zanwuyekalo fo zuwɛnkalo), olu ye :#\n"
+"- ***To yɔrɔ kelen balo :*** Jiribuluw kilo 4 (= shɔ kala jalen kilo 1,5) + ɲɔ bu kilo 0,5 (walima turuto)."
 
 #. type=global
 #. The following strings should not be translated: 
@@ -551,7 +604,10 @@ msgid "Les différents régimes alimentaires pour le (s) @item.text en saison s�
 "- ***Le pâturage libre:*** le (s) @item.text s'alimentent exclusivement à partir des pâturages naturels des parcours pastoraux du terroir;\n"
 "- ***La complémentation simple:***  le pâturage libre dans la journée + 0,5 kg de fanes + 0,5 kg de son de céréales (ou de tourteau de coton) chaque nuit durant toute la saison sèche-chaude; \n"
 "- ***La stabulation:*** le (s) @item.text est/sont maintenu(s) et nourri (s) sur place avec 4 kg des feuilles d’arbres (1,5 kgMS de fanes) + 0,5 kg de son de céréales (de tourteau de coton) durant toute la saison sèche-chaude."
-msgstr ""
+msgstr "#Bagan balo fɛrɛ minnu beye @item.text kama tileman waati la (ka ta zanwuyekalo fo zuwɛnkalo), olu ye :#\n"
+"- ***Baganmarayɔrɔ gansan :*** @item.text bɛ balo baganmarayɔrɔw dɔrɔn la tileman kɔnɔ ;\n"
+"- ***Farangali gansan :*** baganmarayɔrɔ gansan tile fɛ + shɔ kala/bin jalen kilo 0,5 +  ɲɔ bu kilo 0,5 su fɛ tileman waati bɛɛ kɔnɔ ;\n"
+"- ***To yɔrɔ kelen balo :*** @item.text bɛ to yɔrɔ kelen ka balo ni jiribulu kilo 4 ye (shɔ kala jalen kilo 1,5) +  ɲɔ bu kilo 0,5 (walima turuto) tileman kɔnɔ."
 
 #. type=global
 #. The following strings should not be translated: 
@@ -561,51 +617,53 @@ msgctxt "global"
 msgid "Les différents régimes alimentaires pour le (s) @item.text en saison sèche-chaude (janvier-juin) sont :\n"
 "- ***Le pâturage libre:*** le (s) @item.text s'alimentent exclusivement à partir des pâturages naturels des parcours pastoraux du terroir;\n"
 "- ***La complémentation simple:***  le pâturage libre dans la journée + 0,5 kg de fanes + 0,5 kg de son de céréales (ou de tourteau de coton) chaque nuit  durant toute la saison sèche-chaude."
-msgstr ""
+msgstr "#Bagan balo fɛrɛ minnu beye @item.text kama tileman waati la (ka ta zanwuyekalo fo zuwɛnkalo), olu ye :#\n"
+"- ***Baganmarayɔrɔ gansan :*** @item.text bɛ balo baganmarayɔrɔw dɔrɔn la tileman kɔnɔ ;\n"
+"- ***Farangali gansan :*** baganmarayɔrɔ gansan tile fɛ + shɔ kala/bin jalen kilo 0,5 +  ɲɔ bu kilo 0,5 su fɛ tileman waati bɛɛ kɔnɔ ;"
 
 #. type=global
 msgctxt "global"
 msgid "**Nombre  D'animaux**"
-msgstr ""
+msgstr "**Baganw hakɛ**"
 
 #. type=global
 #. The string @item.text should not be translated.
 msgctxt "global"
 msgid "Donnez le nombre de @item.text à nourrir par l'UPA durant prochaine la saison sèche chaude"
-msgstr ""
+msgstr "Cikɛda @item.text hakɛ balo ta tileman nata kɔnɔ, di :"
 
 #. type=global
 #. The string @item.text should not be translated.
 msgctxt "global"
 msgid "Il s’agit du nombre de têtes de @item.text que vous espérez alimenter pendant la saison sèche chaude."
-msgstr ""
+msgstr "O ye @item.text hakɛ min ɲɛsigilen do ka balo tileman waati la"
 
 #. type=global
 msgctxt "global"
 msgid "**Regime alimentaire**"
-msgstr ""
+msgstr "BAGAN BALO FƐRƐW"
 
 #. type=global
 #. The string @item.text should not be translated.
 msgctxt "global"
 msgid "Séléctionnez le regime alimentaire qui sera utilisé pour le (s) @item.text à durant la prochaine saison chaude"
-msgstr ""
+msgstr "Bagan balo fɛrɛ ɲɛsigilen @item.text kama tileman nata kɔnɔ sugandi:"
 
 #. type=global
 msgctxt "global"
 msgid "**Prix unitaire des soins vétérinaires**"
-msgstr ""
+msgstr "**Bagan kelen furakɛli sɔngɔ**"
 
 #. type=global
 #. The string @item.text should not be translated.
 msgctxt "global"
 msgid "Donnez le prix unitaire du soins vétérinaire pour une tête de @item.text . Il s'agit des frais de medicaments et de préstations vétérinaires."
-msgstr ""
+msgstr "@item.text kelen furakɛli sɔngɔ di . Nin ye furaw ni bagan furakɛli musakaw ye."
 
 #. type=global
 msgctxt "global"
 msgid "**Les frais totaux prévisionnels de soins vétérinaires**"
-msgstr ""
+msgstr "**Bagan furakɛli musaka mumɛ ɲɛbila**"
 
 #. type=global
 #. The following strings should not be translated: 
@@ -614,7 +672,7 @@ msgstr ""
 #.      **@fields.frais_veterinaire_cat
 msgctxt "global"
 msgid "Les frais totaux pour le(s) @fields.nb_animaux tête (s) de @item.text sont : **@fields.frais_veterinaire_cat drm**"
-msgstr ""
+msgstr "@item.text den @fields.nb_animaux  furakɛli musaka mumɛ ɲɛbila ye: drm @fields.frais_veterinaire_cat "
 
 #. type=global
 #. The following strings should not be translated: 
@@ -623,53 +681,53 @@ msgstr ""
 #.      @item.text
 msgctxt "global"
 msgid "Ce montant est obtenu en multipliant le prix unitaire de soins (@fields.frais_veterinaire_tete drm) par le nombre d'animaux @fields.nb_animaux de @item.text"
-msgstr ""
+msgstr "Nin hakɛ jate sɔrɔ la bagan kelen furakɛli sɔngɔ (drm @fields.frais_veterinaire_tete ) cayalen ni @item.text den @fields.nb_animaux  hakɛ ye"
 
 #. type=global
 #. The string @fields.cat_animaux_selected should not be translated.
 msgctxt "global"
 msgid "Ces valeurs représentent l'estimation des besoins totaux de l'UPA en concentrés, fânes ou foins, résidus de céréales pour toutes catégories animales: @fields.cat_animaux_selected"
-msgstr ""
+msgstr "Nin hakɛ ninnu bɛ cikɛda ka bagan balow mumɛ ɲɛbilataw hakew jira bagan suguya sugandilen kan : @fields.cat_animaux_selected "
 
 #. type=global
 #. The string **@fields.total_concentre should not be translated.
 msgctxt "global"
 msgid "La quantité totale de concentré est : **@fields.total_concentre sacs**"
-msgstr ""
+msgstr "Turuto ni bu jɛlen hakɛ mumɛ: bɔrɛ @fields.total_concentre "
 
 #. type=global
 #. The string @fields.total_concentre should not be translated.
 msgctxt "global"
 msgid "**La quantité de son de céréales dans les @fields.total_concentre sacs de concentrés**"
-msgstr ""
+msgstr "**Bu bɔrɛ hakɛ di turuto ni bu jɛlen bɔrɛ @fields.total_concentre  la**"
 
 #. type=global
 #. The string @fields.total_concentre should not be translated.
 msgctxt "global"
 msgid "**La quantité de tourteau de coton dans les @fields.total_concentre sacs de concentrés**"
-msgstr ""
+msgstr "**Turuto ni bu jɛlen bɔrɛ @fields.total_concentre  la, turuto bɔrɛ hakɛ  ye :**"
 
 #. type=global
 #. The string @fields.quantite_son should not be translated.
 msgctxt "global"
 msgid "Pour une prévision de @fields.quantite_son sac de son, la quantité restante est le tourteau."
-msgstr ""
+msgstr "Ni bu hakɛ ɲɛsigilen ye bɔrɛ @fields.quantite_son , a tɔ hakɛ bɛ ye turuto ye."
 
 #. type=global
 #. The string @fields.quantite_son should not be translated.
 msgctxt "global"
 msgid "**La quantité de son de céréales qui sera auto-produite par votre UPA dans les @fields.quantite_son sacs de son que vous aviez indiqués.**"
-msgstr ""
+msgstr "Bu bɔrɛ hakɛ min bɛ bɔ cikɛda kɔnɔ di bu bɔrɛ @fields.quantite_son  la:"
 
 #. type=global
 msgctxt "global"
 msgid "Il s'agit de la quantité de son de céréales qui sera obtenue à partir du décorticage des céréales de votre UPA."
-msgstr ""
+msgstr "O bɛ tali kɛ bu bɔrɛ hakɛ min bɛna sɔrɔ cikɛda ka sɛnɛfɛnw bɔli la."
 
 #. type=global
 msgctxt "global"
 msgid "**Quantité de son à achéter**"
-msgstr ""
+msgstr "Bu bɔrɛ santa hakɛ"
 
 #. type=global
 #. The following strings should not be translated: 
@@ -677,61 +735,61 @@ msgstr ""
 #.      @fields.achat_son_quantite
 msgctxt "global"
 msgid "Pour une prevision d'auto production de @fields.concentre_produit sacs de son, il restera @fields.achat_son_quantite sacs de son a achéter."
-msgstr ""
+msgstr "Ni bu bɔ ta ɲɛsigilen cikɛda kɔnɔ ye bɔrɛ @fields.concentre_produit , a tɔ bɛ to bɔrɛ @fields.achat_son_quantite  ye min bɛ san."
 
 #. type=global
 msgctxt "global"
 msgid "**Le prix d'un sac de son de céréales**"
-msgstr ""
+msgstr "**Bu bɔrɛ kelen sɔngɔ**"
 
 #. type=global
 msgctxt "global"
 msgid "**Le montant prévisionnel pour l'achat du son**"
-msgstr ""
+msgstr "**Waari ɲɛbilata hakɛ bu sanni kama**"
 
 #. type=global
 #. The string **@fields.cal_depense_son should not be translated.
 msgctxt "global"
 msgid "Le montant prévisionnel pour l'achat du son est: **@fields.cal_depense_son drm**"
-msgstr ""
+msgstr "Waari ɲɛbilata hakɛ bu sanni kama ye: drm @fields.cal_depense_son "
 
 #. type=global
 #. The string @fields.achat_son_quantite should not be translated.
 msgctxt "global"
 msgid "Il s'agit de l'estimation du montant total nécessaire pour achéter @fields.achat_son_quantite sacs de son"
-msgstr ""
+msgstr "Nin ye waari hakɛ jate ye min bɛna kɛ ka bu bɔrɛ @fields.achat_son_quantite  san."
 
 #. type=global
 msgctxt "global"
 msgid "**La quantité de tourteau de coton à acheter**"
-msgstr ""
+msgstr "**Turuto bɔrɛ santa hakɛ ye:  **"
 
 #. type=global
 msgctxt "global"
 msgid "**Le prix d'un sac de tourteau**"
-msgstr ""
+msgstr "**Turuto bɔrɛ kelen sɔngɔ di:**"
 
 #. type=global
 msgctxt "global"
 msgid "**Le montant prévisionnel pour l'achat du tourteau**"
-msgstr ""
+msgstr "Waari ɲɛbilata hakɛ Turuto sanni kama ye: "
 
 #. type=global
 #. The string **@fields.cal_depense_tourteau should not be translated.
 msgctxt "global"
 msgid "Le montant prévisionnel pour l'achat du tourteau est: **@fields.cal_depense_tourteau drm**"
-msgstr ""
+msgstr "Waari ɲɛbilata hakɛ Turuto sanni kama ye: drm @fields.cal_depense_tourteau "
 
 #. type=global
 msgctxt "global"
 msgid "**La superficie de cultures fourragères**"
-msgstr ""
+msgstr "**Kɛnɛ hakɛ ɲɛbilata bagan balo sɛnɛ kama**"
 
 #. type=global
 #. The string @fields.total_fane should not be translated.
 msgctxt "global"
 msgid "La superficie de cultures fourragères pour produire les @fields.total_fane bottes de fânes est estimée à:"
-msgstr ""
+msgstr "Kɛnɛ hakɛ ɲɛbilata bagan balo sɛnɛ kama walassa shɔ kala kuru @fields.total_fane  sɔrɔ, ye : taari @fields.cal_superficie "
 
 #. type=global
 #. The following strings should not be translated: 
@@ -742,32 +800,35 @@ msgid "1 ha de niébé fourrager peut produire 2500 kgMS, soit environ 1700 bott
 "-1 ha de mucuna pruriens peut produire 6000kgMS (Ba et al.2023)\n"
 "-1 ha de brachiaria peut produire 7200 kgMS (Ba et al.2023)\n\n\n"
 "<strong> Pour vos @fields.total_fane bottes, on a considéré le rendement du niébé fourrager en divisant @fields.total_fane par les 1700 bottes"
-msgstr ""
+msgstr "Shɔ sɛnɛta bagan balo kama taari 1  bɛ se ka kala jalen kilo 2500 bɔ, walima kuru 1700 ɲɔgɔn (Falconnier et al. 2016)\n"
+"Mucuna taari 1 bɛ se ka kala jalen kilo 6000 bɔ (Ba et al.2023)\n"
+"Bakaria taari 1 bɛ se ka kala jalen kilo 7200 bɔ (Ba et al.2023)\n"
+"Kɛnɛ hake min bɛ se ka sɛnɛ ka kala jalen kuru @fields.total_fane  kama, o jate bɔla ni shɔ sɛnɛta bagan balo kama sɔrɔ lakika taarila (kala jalen kuru 1700)."
 
 #. type=global
 msgctxt "global"
 msgid "**Le montant prévisionnel des depenses d'achat des aliments pour bétail**"
-msgstr ""
+msgstr "Waari ɲɛbila hakɛ bagan balow sanni kama"
 
 #. type=global
 msgctxt "global"
 msgid "Le montant prévisionnel des depenses d'achat des aliments pour bétail  est :"
-msgstr ""
+msgstr "Waari ɲɛbila hakɛ bagan balow sanni kama ye:"
 
 #. type=global
 msgctxt "global"
 msgid "**Le montant prévisionnel des dépenses des soins vétérinaire**"
-msgstr ""
+msgstr "**Waari ɲɛbila hakɛ bagan furakɛli musakaw **"
 
 #. type=global
 msgctxt "global"
 msgid "Le montant prévisionnel des dépenses des soins vétérinaires est:"
-msgstr ""
+msgstr "Waari ɲɛbila hakɛ bagan furakɛli musakaw kama:"
 
 #. type=global
 msgctxt "global"
 msgid "Continuer"
-msgstr ""
+msgstr "Tɛmɛ ɲɛfɛ"
 
 #. type=global
 msgctxt "global"
@@ -783,7 +844,7 @@ msgstr ""
 #. The string @fields.besoin_cereale_exploitation should not be translated.
 msgctxt "global"
 msgid "Le nombre de sacs doit être inférieur ou égal à @fields.besoin_cereale_exploitation"
-msgstr ""
+msgstr "bɔrɛ hakɛ kan ka ka dogoya wali ka ben @fields.besoin_cereale_exploitation ye"
 
 #. type=global
 msgctxt "global"
@@ -826,7 +887,7 @@ msgstr ""
 #. type=global
 msgctxt "global"
 msgid "1 drm=5 FCFA"
-msgstr ""
+msgstr "1 drm=5 FCFA"
 
 #. type=global
 msgctxt "global"
@@ -856,19 +917,19 @@ msgstr ""
 #. type=global
 msgctxt "global"
 msgid "Ecrivez le nom vernaculaire du champ en langue locale tel que « SODALA FORO » ou « KUNGO DIAN FORO »"
-msgstr ""
+msgstr "Foro tɔgɔ sɛbɛn sɛbɛnkan na, i n’a fɔ « SODALA FORO » walima « KUNGO DIAN FORO »"
 
 #. type=global
 #. The string @local.nom_champ** should not be translated.
 msgctxt "global"
 msgid "**Caracteristiques du champ @local.nom_champ**"
-msgstr ""
+msgstr "**FORO COGOYA: @local.nom_champ**\n"
 
 #. type=global
 #. The string @local.nom_champ** should not be translated.
 msgctxt "global"
 msgid "**Sélectionnez le type de sol du champ @local.nom_champ**"
-msgstr ""
+msgstr "**Dugu kolo suguya  @local.nom_champ**"
 
 #. type=global
 msgctxt "global"
@@ -888,7 +949,7 @@ msgstr ""
 #. type=global
 msgctxt "global"
 msgid "Écrivez \"Je ne sais pas\" si vous ne connaissez pas le nom de la variété"
-msgstr ""
+msgstr "\"nta don\" sɛbɛn ni taa tɔgɔ don"
 
 #. type=global
 msgctxt "global"
@@ -899,25 +960,25 @@ msgstr ""
 #. The string @local.nom_champ** should not be translated.
 msgctxt "global"
 msgid "**Sélectionnez le niveau d'inclinaison du champ @local.nom_champ**"
-msgstr ""
+msgstr "**kɛnɛ fɛcɛ cogo @local.nom_champ**"
 
 #. type=global
 #. The string @local.nom_champ** should not be translated.
 msgctxt "global"
 msgid "**Comptez et renseignez le nombre de parcelles de @local.nom_champ**"
-msgstr ""
+msgstr "**Kɛnɛ tigɛlen hakɛ @local.nom_champ kɔnɔ jate ni ka hakɛ di**"
 
 #. type=global
 #. The string @fields.num_parcelle should not be translated.
 msgctxt "global"
 msgid "Indiquez le niveau de fertilité de la parcelle N⁰ @fields.num_parcelle"
-msgstr ""
+msgstr "Kɛnɛ N⁰@fields.num_parcelle dugukolo fanga di"
 
 #. type=global
 #. The string N⁰@fields.num_parcelle should not be translated.
 msgctxt "global"
 msgid "Sélectionnez la culture principale dans la parcelle N⁰@fields.num_parcelle"
-msgstr ""
+msgstr "Kɛnɛ N⁰@fields.num_parcelle  sɛnɛfen jɔnjɔn ta"
 
 #. type=global
 #. The following strings should not be translated: 
@@ -961,13 +1022,13 @@ msgstr ""
 #. The string N⁰@fields.num_parcelle should not be translated.
 msgctxt "global"
 msgid "Comptez et renseignez le nombre d'arbres dans la parcelle N⁰@fields.num_parcelle"
-msgstr ""
+msgstr "Jiri sun hakɛ kɛnɛ N⁰@fields.num_parcelle kɔnɔ jate ka hakɛ di"
 
 #. type=global
 #. The string N⁰@fields.num_parcelle should not be translated.
 msgctxt "global"
 msgid "Ecrivez le(s) nom(s) des arbres se trouvant dans la parcelle N⁰@fields.num_parcelle"
-msgstr ""
+msgstr "Jiri sun minu bɛ kɛnɛ N⁰@fields.num_parcelle kɔnɔ tɔgɔ sɛbɛn\n"
 
 #. type=global
 #. The following strings should not be translated: 
@@ -975,7 +1036,7 @@ msgstr ""
 #.      N⁰@fields.num_parcelle
 msgctxt "global"
 msgid "Indiquez si d’autre(s) culture(s) sont associées avec @fields.cult_princip dans la parcellle N⁰@fields.num_parcelle"
-msgstr ""
+msgstr "Sɛnɛfen wɛrɛw jɛlen @fields.cult_princip fɛ ka sɛnɛ kɛnɛ N⁰@fields.num_parcelle  kɔnɔ"
 
 #. type=global
 #. The following strings should not be translated: 
@@ -997,7 +1058,7 @@ msgstr ""
 #. The string N⁰@fields.num_parcelle should not be translated.
 msgctxt "global"
 msgid "Quantité de fumure organique (charretée) dans la parcelle N⁰@fields.num_parcelle"
-msgstr ""
+msgstr "Nɔgɔfin hakɛ (wotoro) kɛnɛ N⁰@fields.num_parcelle  kɔnɔ"
 
 #. type=global
 #. The string N⁰@fields.num_parcelle should not be translated.
@@ -1041,7 +1102,7 @@ msgstr ""
 #.      N⁰@fields.num_parcelle**
 msgctxt "global"
 msgid "**Indiquez si une autre formule d'engrais est apportée à la culture @fields.cult_princip dans la parcelle N⁰@fields.num_parcelle**"
-msgstr ""
+msgstr "**A jiran ni sɛgɛni suguya wɛrɛ don na kɛnɛ N⁰@fields.num_parcelle la**"
 
 #. type=global
 #. The following strings should not be translated: 
@@ -1050,7 +1111,7 @@ msgstr ""
 #.      @fields.nom_champ**
 msgctxt "global"
 msgid "**Superficie de @fields.cult_princip dans la parcelle N° @fields.num_parcelle de @fields.nom_champ**"
-msgstr ""
+msgstr "@fields.cult_princip: Kɛnɛ N⁰@fields.num_parcelle boɲan hakɛ *@fields.nom_champ* kɔnɔ\n"
 
 #. type=global
 #. The following strings should not be translated: 
@@ -1058,13 +1119,13 @@ msgstr ""
 #.      N⁰@fields.num_parcelle
 msgctxt "global"
 msgid "Mesurez à l'aide du GPS la superficie de @fields.cult_princip dans la parcelle N⁰@fields.num_parcelle"
-msgstr ""
+msgstr "@fields.cult_princip, kɛnɛ N⁰@fields.num_parcelle boɲan suma ni GPS ye\n"
 
 #. type=global
 #. The string @fields.nom_champ should not be translated.
 msgctxt "global"
 msgid "La superficie cumulée (ha) des parcelles mesurées dans @fields.nom_champ est:"
-msgstr ""
+msgstr "Kɛnɛw sumalen mumɛ (taari hakɛ) @fields.nom_champ kɔnɔ ye :"
 
 #. type=global
 msgctxt "global"
@@ -1266,12 +1327,12 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "Connexion CEF-M"
-msgstr ""
+msgstr " CEF-M donni"
 
 #. type=template
 msgctxt "template"
 msgid "<div style=\"font-size: 13px; color: #555; text-align: center; margin-bottom: 20px;\">Veuillez entrer votre code UPA pour accéder à l'application</div>"
-msgstr ""
+msgstr "<div style=\"font-size: 13px; color: #555; text-align: center; margin-bottom: 20px;\">I ka Cikɛda nimɔrɔ sɛbɛn walasa ka don nin application kɔnɔ :</div>"
 
 #. type=template
 #. The following strings should not be translated: 
@@ -1299,12 +1360,12 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "<div style=\"background-color: #ffebee; border: 1px solid #ffcdd2; color: #c62828; padding: 10px 14px; border-radius: 8px; font-size: 13px; text-align: center; margin: 16px 8px 0 8px; font-weight: 500;\">⚠️ Code UPA incorrectt !</div>"
-msgstr ""
+msgstr "<div style=\"background-color: #ffebee; border: 1px solid #ffcdd2; color: #c62828; padding: 10px 14px; border-radius: 8px; font-size: 13px; text-align: center; margin: 16px 8px 0 8px; font-weight: 500;\">⚠️ Cikɛda nimɔrɔ ma ɲɛ!</div>"
 
 #. type=template
 msgctxt "template"
 msgid "Se connecter"
-msgstr ""
+msgstr "Don appili kɔnɔ"
 
 #. type=template
 #. The string @global.nb_personnes_upa should not be translated.
@@ -1716,24 +1777,24 @@ msgstr ""
 #. The string @local.ratio_membre_terre should not be translated.
 msgctxt "template"
 msgid "Ratio membres-terre cultivée: @local.ratio_membre_terre"
-msgstr ""
+msgstr "Kɛnɛ sɛnɛta taari kelen jɔlen do ni mɔgɔ hakɛ min ye cikɛda fɛ :"
 
 #. type=template
 #. The string @local.ratio_actif_terre should not be translated.
 msgctxt "template"
 msgid "Ratio actifs-terre cultivée: @local.ratio_actif_terre"
-msgstr ""
+msgstr "Kɛnɛ sɛnɛta taari kelen baaralen do ni baarakɛ fanga hakɛ min ye cikɛda fɛ :"
 
 #. type=template
 #. The string @local.ratio_boeuflabour_terre should not be translated.
 msgctxt "template"
 msgid "Ratio boeufs labour-terre cultivée: @local.ratio_boeuflabour_terre"
-msgstr ""
+msgstr "Kɛnɛ sɛnɛta taari kelen baaralen do ni cikɛ tura hakɛ min ye cikɛda fɛ :"
 
 #. type=template
 msgctxt "template"
 msgid "**SOINS VETERINAIRES**"
-msgstr ""
+msgstr "**BAGAN FURAKƐLI**"
 
 #. type=template
 #. The string @global.hint_prix_unit_veto should not be translated.
@@ -1800,7 +1861,7 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "rendement"
-msgstr ""
+msgstr "sƆRƆ LAKIKA"
 
 #. type=template
 #. The following strings should not be translated: 
@@ -1906,12 +1967,12 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "**PLANIFICATION**"
-msgstr ""
+msgstr "**BOLODALI**"
 
 #. type=template
 msgctxt "template"
 msgid "**NOTE APPROCHE BESOIN**"
-msgstr ""
+msgstr "**KƆLƆSI ƝƐNABƆLI MAGO**"
 
 #. type=template
 msgctxt "template"
@@ -2239,12 +2300,12 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "Navigation"
-msgstr ""
+msgstr "Yɔrɔw la taama"
 
 #. type=template
 msgctxt "template"
 msgid "<div style=\"font-size: 13px; color: #555; margin-bottom: 20px;\">Accédez rapidement aux différentes étapes du processus :</div>"
-msgstr ""
+msgstr "<div style=\"font-size: 13px; color: #555; margin-bottom: 20px;\">Sɛgɛsɛgɛli cogoya kunnafoniw la waati dɔɔnin kɔnɔ :</div>"
 
 #. type=template
 msgctxt "template"
@@ -2296,7 +2357,7 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "**Montant prévisionnel des dépenses annuelles de santé humaine**"
-msgstr ""
+msgstr "**Cikɛda ka san kelen kɛnɛya musaka ɲɛbila hakɛ ye**"
 
 #. type=template
 #. The following strings should not be translated: 
@@ -2326,7 +2387,7 @@ msgstr ""
 #. The string @fields.couts_totaux_prevus should not be translated.
 msgctxt "template"
 msgid "Coûts totaux prévisionnels: **@fields.couts_totaux_prevus drm**"
-msgstr ""
+msgstr "Musakaw mumε ɲεsigilen: drm @fields.couts_totaux_prevus "
 
 #. type=template
 #. The string @fields.culture_label should not be translated.
@@ -2368,7 +2429,7 @@ msgstr ""
 #.      @local.chiffre_affaire_prevu
 msgctxt "template"
 msgid "Le chiffre d'affaire prévisionnel de la production total de @fields.culture_label : **@local.chiffre_affaire_prevu drm**"
-msgstr ""
+msgstr "@fields.culture_label sɔrɔ kunba feereli wari hakε ɲεsigilen: drm @local.chiffre_affaire_prevu "
 
 #. type=template
 #. The following strings should not be translated: 
@@ -2377,13 +2438,14 @@ msgstr ""
 msgctxt "template"
 msgid "Calcul: @fields.prix_prevu_vente * @fields.production_prevue\n"
 "*1 drm=5 FCFA*"
-msgstr ""
+msgstr "Jate bɔ cogo: @fields.prix_prevu_vente  \\*@fields.production_prevue \n"
+"*1 drm=5 FCFA*"
 
 #. type=template
 #. The string @local.marge_brute_prevue should not be translated.
 msgctxt "template"
 msgid "La marge brute prévisionnelle: **@local.marge_brute_prevue drm**"
-msgstr ""
+msgstr "Tɔnɔ kunba ɲεsigilen: drm @local.marge_brute_prevue"
 
 #. type=template
 #. The following strings should not be translated: 
@@ -2392,25 +2454,25 @@ msgstr ""
 msgctxt "template"
 msgid "Calcul: @local.chiffre_affaire_prevu - @fields.couts_totaux_prevus\n"
 "*1 drm=5 FCFA*"
-msgstr ""
+msgstr "Jate bɔ cogo : @local.chiffre_affaire_prevu - @fields.couts_totaux_prevus *1 drm=5 FCFA*"
 
 #. type=template
 #. The string @fields.prix_prevu_vente should not be translated.
 msgctxt "template"
 msgid "**La Mage brute est positive: @fields.prix_prevu_vente drm/kg**"
-msgstr ""
+msgstr "Tɔnɔ kunba ka cian ka tεmε musaka mumε ka, ni feere sɔngɔ ye drm @fields.prix_prevu_vente  kilo la"
 
 #. type=template
 #. The string @fields.prix_prevu_vente should not be translated.
 msgctxt "template"
 msgid "**La marge brute est nulle: @fields.prix_prevu_vente drm/kg**"
-msgstr ""
+msgstr "Tɔnɔ kunba kεɲε len do musaka mumε ma cɔye, ni feere sɔngɔ ye drm @fields.prix_prevu_vente  kilo la"
 
 #. type=template
 #. The string @fields.prix_prevu_vente should not be translated.
 msgctxt "template"
 msgid "**La Marge brute négative à @fields.prix_prevu_vente drm/kg**"
-msgstr ""
+msgstr "Tɔnɔ kunba ka dɔkɔ ka tεmε musaka mumε ka, ni feere sɔngɔ ye drm @fields.prix_prevu_vente  kilo la"
 
 #. type=template
 #. The following strings should not be translated: 
@@ -2618,7 +2680,7 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "*Mettez 0 si aucune chaux* <span style=\"font-size: 12px; color: gray;\"></span>"
-msgstr ""
+msgstr "*Fu (0) sɛbɛ ni faranɔgɔ ma do*<span style=\"font-size: 12px; color: gray;\"></span>"
 
 #. type=template
 msgctxt "template"
@@ -2680,7 +2742,7 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "**PREVISIONS**"
-msgstr ""
+msgstr "**BALO TAW ƝƐBILA**"
 
 #. type=template
 #. The following strings should not be translated: 
@@ -2704,7 +2766,7 @@ msgstr ""
 #. The string @fields.niveau_text should not be translated.
 msgctxt "template"
 msgid "**Donnez le nombre d'enfants de l'UPA inscrit au @fields.niveau_text**"
-msgstr ""
+msgstr "**Denmisɛn minnu bɛ @fields.niveau_text  la hakɛ di**"
 
 #. type=template
 #. The following strings should not be translated: 
@@ -2721,7 +2783,7 @@ msgstr ""
 #. The string @fields.niveau_text should not be translated.
 msgctxt "template"
 msgid "**Donnez le frais annuel de scolarité d'un enfant au @fields.niveau_text en drm**"
-msgstr ""
+msgstr "**Denmisɛn kelen @fields.niveau_text  la ka san kalo sara hakɛ (drm) di**"
 
 #. type=template
 #. The following strings should not be translated: 
@@ -2737,12 +2799,12 @@ msgstr ""
 #. The string @fields.niveau_text should not be translated.
 msgctxt "template"
 msgid "**Donnez le frais annuel de fourniture scolaire d'un enfant au @fields.niveau_text en drm**"
-msgstr ""
+msgstr "**Denmisɛn kelen @fields.niveau_text  la ka san kalan kɛ minɛw musaka hakɛ (drm) di**"
 
 #. type=template
 msgctxt "template"
 msgid "<p style=\"color: black;\"> Il s'agit des frais de fournitures scolaires (sac, ardoise, crayon, bic, livres, la craie, etc.) d'un enfant  </p>"
-msgstr ""
+msgstr "<p style=\"color: black;\">Denmisɛn kelen ka kalan minɛw, i n’a fɔ: mbala, walaha, kreyon, biki, gafew, lakrɛ, ani fɛn wɛrɛw.</p>\n"
 
 #. type=template
 #. The following strings should not be translated: 
@@ -2758,7 +2820,7 @@ msgstr ""
 #. The string @fields.niveau_text should not be translated.
 msgctxt "template"
 msgid "**Donnez les frais quotidiens de déplacement aller-retour entre la maison et l'école d'un enfant du @fields.niveau_text en drm**"
-msgstr ""
+msgstr "**Denmisɛn kelen @fields.niveau_text  la ka tile kelen kalanso ta'a ni ka segi musaka hakɛ (drm) di**"
 
 #. type=template
 #. The following strings should not be translated: 
@@ -2774,7 +2836,7 @@ msgstr ""
 #. The string @fields.niveau_text should not be translated.
 msgctxt "template"
 msgid "**Donnez le frais quotidien de récreation d'un enfant au @fields.niveau_text en drm**"
-msgstr ""
+msgstr "**Denmisɛn kelen @fields.niveau_text  la ka tile kelen rɛkɛrɛyasiyon wari musaka hakɛ (drm) di**"
 
 #. type=template
 #. The following strings should not be translated: 
@@ -2800,7 +2862,7 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "continuer"
-msgstr ""
+msgstr "tɛmɛ ɲɛfɛ"
 
 #. type=template
 #. The following strings should not be translated: 
@@ -2963,7 +3025,7 @@ msgstr ""
 #. The string @fields.culture_label should not be translated.
 msgctxt "template"
 msgid "*Superficie cumulée de toutes les parcelles de @fields.culture_label*"
-msgstr ""
+msgstr "*@fields.culture_label kɛnɛ kɛnɛ sɛnɛta mumɛ*"
 
 #. type=template
 #. The following strings should not be translated: 
@@ -2979,7 +3041,7 @@ msgstr ""
 #. The string @fields.culture_label should not be translated.
 msgctxt "template"
 msgid "**@fields.culture_label: Superficie prévisionnelle à labourer par prestation (ha)**"
-msgstr ""
+msgstr "@fields.culture_label: foro kɛnɛ hakɛ ɲɛsigilen laburulen sara la (taari)"
 
 #. type=template
 #. The following strings should not be translated: 
@@ -3094,7 +3156,7 @@ msgstr ""
 #. The string @fields.num_parcelle should not be translated.
 msgctxt "template"
 msgid "<p style=\"color: black;\"> Séléctionnez le canal à utiliser pour faire votre observation sur la parcelle N⁰@fields.num_parcelle</p>"
-msgstr ""
+msgstr "<p style=\"color: black;\">I ka kɔlɔsili di cogoya ta kɛnɛ N⁰@fields.num_parcelle</p>"
 
 #. type=template
 #. The following strings should not be translated: 
@@ -3620,7 +3682,7 @@ msgstr ""
 #. The string @fields.superficie_exploitation should not be translated.
 msgctxt "template"
 msgid "La réponse doit être inférieure ou égale à la superficie totale (@fields.superficie_exploitation ha)"
-msgstr ""
+msgstr "Jaabi ka kan ka dɔgɔya ni cikɛda foro dalajɛlen hakɛ ye: taari  @fields.superficie_exploitation "
 
 #. type=template
 #. The following strings should not be translated: 
@@ -3638,7 +3700,12 @@ msgid "Les autres formulaires de planification qui complètent ce formulaire son
 "-***Depenses***;\n"
 "-***Fumure organique***.\n"
 "======= MERCI========"
-msgstr ""
+msgstr "\"Bolodali sɛbɛnfura wɛrɛw minnu bɛ nin dafa ye:\n"
+"-***Cikɛda mɔgɔw ka balo ***;\n"
+"-***Cikɛda baganw ka balo ***;\n"
+"-***Cikɛda ka san musakaw***;\n"
+"-***Nɔgɔfin laben cikɛda fɛ***.\n"
+"======= I NI CE========\""
 
 #. type=template
 msgctxt "template"
@@ -3736,7 +3803,7 @@ msgstr ""
 #. The string @fields.superficie_ha_prevue should not be translated.
 msgctxt "template"
 msgid "**Selectionnez la/les variété(s) de semences à utiliser pour @fields.superficie_ha_prevue ha**"
-msgstr ""
+msgstr "**Danni si suguyaw ɲɛsigilen taari @fields.superficie_ha_prevue kama sugandi**"
 
 #. type=template
 msgctxt "template"
@@ -3746,27 +3813,27 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "Enrôlement"
-msgstr ""
+msgstr "Cikɛda ka kunafoniw sɛbɛnni"
 
 #. type=template
 msgctxt "template"
 msgid "Cultures de l'UPA"
-msgstr ""
+msgstr "Cikɛda ka sɛnɛfen"
 
 #. type=template
 msgctxt "template"
 msgid "Alimentation Humaine"
-msgstr ""
+msgstr "Cikɛda mɔgɔw ka balo"
 
 #. type=template
 msgctxt "template"
 msgid "Alimentation Animale"
-msgstr ""
+msgstr "Cikɛda baganw ka balo"
 
 #. type=template
 msgctxt "template"
 msgid "Dépenses de l'UPA"
-msgstr ""
+msgstr "Cikɛda ka san musaka ɲɛbilataw"
 
 #. type=template
 #. The following strings should not be translated: 
@@ -4364,7 +4431,7 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "*Mettez 0 si aucune superficie*  <span style=\"font-size: 12px; color: gray;\"></span>"
-msgstr ""
+msgstr "*Fu (0) sɛbɛ ni laburu makɛ sara la*<span style=\"font-size: 12px; color: gray;\"></span>"
 
 #. type=template
 msgctxt "template"
@@ -4601,13 +4668,13 @@ msgstr ""
 #. The string @fields.variete_label should not be translated.
 msgctxt "template"
 msgid "**Sélectionnez la source d'approvisionnement de la variété @fields.variete_label**"
-msgstr ""
+msgstr "@fields.variete_label danni si bɔyɔrɔ sugandi"
 
 #. type=template
 #. The string @fields.variete_label should not be translated.
 msgctxt "template"
 msgid "**Ecrivez le nom de l'autre source d'approvisionnement de la variété @fields.variete_label**"
-msgstr ""
+msgstr "@fields.variete_label danni si in bɔyɔrɔ wɛrɛ tɔgɔ sɛbɛ"
 
 #. type=template
 #. The following strings should not be translated: 
@@ -4636,7 +4703,7 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "NOTE"
-msgstr ""
+msgstr "HAKILI JINGI"
 
 #. type=template
 #. The following strings should not be translated: 
@@ -4747,7 +4814,7 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "<span style=\"color: red; font-weight: bold;\">Réponse obligatoire !</span>"
-msgstr ""
+msgstr "<span style=\"color: red; font-weight: bold;\">Jabi wajibiyalen do !</span>"
 
 #. type=template
 #. The following strings should not be translated: 
@@ -5162,31 +5229,31 @@ msgstr ""
 #. The string @local.besoins_prevue_npk_coton_14_18_18 should not be translated.
 msgctxt "template"
 msgid "Besoins prévisionnels en complexe coton 14-18-18:  **@local.besoins_prevue_npk_coton_14_18_18 sacs**"
-msgstr ""
+msgstr "Sukubɛ-sukubɛ kɔɔri 14-18-18 laɲiniw ɲεsigilen: bɔrɛ @local.besoins_prevue_npk_coton_14_18_18"
 
 #. type=template
 #. The string @local.besoins_prevue_npk_cereale_15_15_15 should not be translated.
 msgctxt "template"
 msgid "Besoins prévisionnels en complexe céréales 15-15-15: **@local.besoins_prevue_npk_cereale_15_15_15 sac**"
-msgstr ""
+msgstr "Sukubɛ-sukubɛ suman 15-15-15 laɲiniw ɲεsigilen: bɔrɛ @local.besoins_prevue_npk_cereale_15_15_15"
 
 #. type=template
 #. The string @local.besoins_prevue_npk_cereale_17_17_17 should not be translated.
 msgctxt "template"
 msgid "Besoins prévisionnels en complexe céréales 17-17-17: **@local.besoins_prevue_npk_cereale_17_17_17 sac**"
-msgstr ""
+msgstr "Sukubɛ-sukubɛ suman 17-17-17 laɲiniw ɲεsigilen: bɔrɛ @local.besoins_prevue_npk_cereale_17_17_17"
 
 #. type=template
 #. The string @local.besoins_prevue_dap should not be translated.
 msgctxt "template"
 msgid "Besoins prévisionnels en DAP: **@local.besoins_prevue_dap sac**"
-msgstr ""
+msgstr "Sɛgɛni fima mɔnikuru laɲiniw ɲεsigilen: bɔrɛ @local.besoins_prevue_dap"
 
 #. type=template
 #. The string @local.besoins_prevus_uree should not be translated.
 msgctxt "template"
 msgid "Besoins prévisionnels en urée: **@local.besoins_prevus_uree sac**"
-msgstr ""
+msgstr "Sɛgɛni jɛma laɲiniw ɲεsigilen: bɔrɛ @local.besoins_prevus_uree"
 
 #. type=template
 #. The following strings should not be translated: 
@@ -5321,7 +5388,7 @@ msgstr ""
 #. The string @fields.quantite_prevue_npk_coton_14_18_18 should not be translated.
 msgctxt "template"
 msgid "**Coût total de @fields.quantite_prevue_npk_coton_14_18_18 sacs de complexe coton 14-18-18 (drm)**"
-msgstr ""
+msgstr "Kɔɔri sɛgɛni sugubɛ-sugubɛ 14-18-18 bɔrɛ @fields.quantite_prevue_npk_coton_14_18_18 sɔngɔ (drm) ye:"
 
 #. type=template
 #. The following strings should not be translated: 
@@ -5352,7 +5419,7 @@ msgstr ""
 #. The string @fields.quantite_prevue_npk_cereale_15_15_15 should not be translated.
 msgctxt "template"
 msgid "**Coût total de @fields.quantite_prevue_npk_cereale_15_15_15 sac de complexe céréales 15-15-15 (drm)**"
-msgstr ""
+msgstr "Suman sɛgɛni sugubɛ-sugubɛ 15-15-15 bɔrɛ @fields.quantite_prevue_npk_cereale_15_15_15 sɔngɔ (drm) ye:"
 
 #. type=template
 #. The following strings should not be translated: 
@@ -5383,7 +5450,7 @@ msgstr ""
 #. The string @fields.quantite_prevue_npk_cereale_17_17_17 should not be translated.
 msgctxt "template"
 msgid "**Coût total de @fields.quantite_prevue_npk_cereale_17_17_17 sac de complexe céréales 17-17-17 (drm)**"
-msgstr ""
+msgstr "Suman sɛgɛni sugubɛ-sugubɛ 17-17-17 bɔrɛ @fields.quantite_prevue_npk_cereale_17_17_17 sɔngɔ (drm) ye:"
 
 #. type=template
 #. The following strings should not be translated: 
@@ -5479,7 +5546,7 @@ msgstr ""
 #.      @fields.precision_autre_engrais
 msgctxt "template"
 msgid "**Coût total de @fields.quantite_prevue_autre_engrais sac d'autre engrais @fields.precision_autre_engrais (drm)**"
-msgstr ""
+msgstr "Sɛgɛni wɛrɛ @fields.precision_autre_engrais  bɔrɛ @fields.quantite_prevue_autre_engrais  sɔngɔ (drm) ye:"
 
 #. type=template
 #. The following strings should not be translated: 
@@ -5691,7 +5758,7 @@ msgstr ""
 #. The string @fields.culture_list_all should not be translated.
 msgctxt "template"
 msgid "**Comptes prévisionnels des cultures : @fields.culture_list_all**"
-msgstr ""
+msgstr "Jatew ɲɛsigilen sɛnɛfen sɛnɛtaw : @fields.culture_list_all "
 
 #. type=template
 #. The following strings should not be translated: 
@@ -5699,13 +5766,13 @@ msgstr ""
 #.      @fields.couts_globaux_prevus_cultures_fcfa
 msgctxt "template"
 msgid "**Les coûts totaux prévisionnels des cultures: @fields.couts_globaux_prevus_cultures drm, soit @fields.couts_globaux_prevus_cultures_fcfa FCFA**"
-msgstr ""
+msgstr "Musakaw mumε ɲεsigilen sɛnɛfen sɛnɛtaw:  drm @fields.couts_globaux_prevus_cultures , wali FCFA @fields.couts_globaux_prevus_cultures_fcfa "
 
 #. type=template
 #. The string @fields.total_superficie_prevue_labour should not be translated.
 msgctxt "template"
 msgid "La superficie totale à labourer par prestation: **@fields.total_superficie_prevue_labour ha**"
-msgstr ""
+msgstr "Foro kɛnɛ sεnεta mumε ɲɛsigilen laburulen sara la: taari @fields.total_superficie_prevue_labour"
 
 #. type=template
 #. The following strings should not be translated: 
@@ -5736,7 +5803,7 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "*Cette culture existe déjà dans la liste standard !*"
-msgstr ""
+msgstr "*Nin sɛnɛfɛn in bɛ standard list kɔnɔ kaban!*"
 
 #. type=template
 #. The following strings should not be translated: 
@@ -5813,7 +5880,7 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "*Veuillez sélectionner au moins une culture pour continuer*!"
-msgstr ""
+msgstr "*Aw ye sɛnɛfen sugandi walasa ka taa a fɛ*!"
 
 #. type=template
 msgctxt "template"
@@ -5830,7 +5897,7 @@ msgstr ""
 #. The string @fields.besoin_cereale_exploitation should not be translated.
 msgctxt "template"
 msgid "<span style=\"color: black;\">Attention: le cumul des sacs des quatre types de céréales doit être égal aux besoins de céréales de l'exploitation de @fields.besoin_cereale_exploitation sacs.</span>"
-msgstr ""
+msgstr "<span style=\"color: black;\">Janto : Nin ɲɔw sɛnɛfɛn ninnu saba bɔrɛ hakɛw dalajɛli ka kan ka bɛn bɔrɛ @fields.besoin_cereale_exploitation mago hakɛ ma.</span>"
 
 #. type=template
 msgctxt "template"
@@ -6242,12 +6309,12 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "Prendre une video"
-msgstr ""
+msgstr "Ja taa"
 
 #. type=template
 msgctxt "template"
 msgid "Prendre une photo"
-msgstr ""
+msgstr "foto tali kai "
 
 #. type=template
 #. The following strings should not be translated: 
@@ -6390,7 +6457,7 @@ msgstr ""
 #.      @fields.cout_prevue_superficie_labour
 msgctxt "template"
 msgid "Prestation de labour pour @fields.superficie_ha_prevue ha: **@fields.cout_prevue_superficie_labour drm**"
-msgstr ""
+msgstr "Taari @fields.superficie_ha_prevue  laburu sarala: drm @fields.cout_prevue_superficie_labour "
 
 #. type=template
 #. The following strings should not be translated: 
@@ -6398,7 +6465,7 @@ msgstr ""
 #.      @fields.cout_total_fumure
 msgctxt "template"
 msgid "Coût total fumure organique pour @fields.superficie_ha_prevue ha: **@fields.cout_total_fumure drm**"
-msgstr ""
+msgstr "Taari @fields.superficie_ha_prevue  nɔgɔfin sɔngɔ : drm @fields.cout_total_fumure "
 
 #. type=template
 #. The following strings should not be translated: 
@@ -6406,7 +6473,7 @@ msgstr ""
 #.      @fields.cout_prevu_semence_achetee
 msgctxt "template"
 msgid "Achat de semences pour @fields.superficie_ha_prevue ha: **@fields.cout_prevu_semence_achetee drm**"
-msgstr ""
+msgstr "Taari @fields.superficie_ha_prevue  danni si santa sɔngɔ : drm @fields.cout_prevu_semence_achetee "
 
 #. type=template
 #. The following strings should not be translated: 
@@ -6414,14 +6481,15 @@ msgstr ""
 #.      @fields.cout_prevu_engrais
 msgctxt "template"
 msgid "Achat des engrais mineraux pour @fields.superficie_ha_prevue ha: **@fields.cout_prevu_engrais drm**"
-msgstr ""
+msgstr "Taari @fields.superficie_ha_prevue  sεgεniw sɔngɔ : drm @fields.cout_prevu_engrais "
 
 #. type=template
 #. The string @fields.culture_label should not be translated.
 msgctxt "template"
 msgid "Coûts prévisionels des types d'engrais selectionnés pour la culture de @fields.culture_label\n"
 "*1 drm=5 FCFA*"
-msgstr ""
+msgstr "Musakaw  dalajɛlen ɲɛsigilen @fields.culture_label  sɛgɛni suguyaw talen kan\n"
+"*1 drm=5 FCFA*"
 
 #. type=template
 #. The following strings should not be translated: 
@@ -6429,14 +6497,15 @@ msgstr ""
 #.      @fields.couts_totaux_prevus_autres_intrants
 msgctxt "template"
 msgid "Achat autres intrants pour @fields.superficie_ha_prevue ha: **@fields.couts_totaux_prevus_autres_intrants drm**"
-msgstr ""
+msgstr "Taari @fields.superficie_ha_prevue  ciw ni kεfen wεrεw sɔngɔ : drm @fields.couts_totaux_prevus_autres_intrants "
 
 #. type=template
 #. The string @fields.culture_label should not be translated.
 msgctxt "template"
 msgid "Coûts prévisionels des autres intrants et services pour  la culture de @fields.culture_label\n"
 "*1 drm=5 FCFA*"
-msgstr ""
+msgstr "ciw ni kεfenw wεrεw musakaw dalajɛlen ɲɛsigilen @fields.culture_label  sεnε kama\n"
+"*1 drm=5 FCFA*"
 
 #. type=template
 #. The following strings should not be translated: 
@@ -6445,7 +6514,7 @@ msgstr ""
 #.      @fields.autre_cout_prevu
 msgctxt "template"
 msgid "Autre(s) coût(s), @fields.nom_autre_cout_prevu, pour @fields.superficie_ha_prevue ha: **@fields.autre_cout_prevu drm**"
-msgstr ""
+msgstr "Taari @fields.superficie_ha_prevue  musaka wɛrɛw,@fields.nom_autre_cout_prevu : drm @fields.autre_cout_prevu "
 
 #. type=template
 #. The following strings should not be translated: 
@@ -6453,7 +6522,7 @@ msgstr ""
 #.      @fields.cout_prevu_recolte_battage
 msgctxt "template"
 msgid "Sevices de récolte et battage pour @fields.superficie_ha_prevue ha: **@fields.cout_prevu_recolte_battage drm**"
-msgstr ""
+msgstr "Taari @fields.superficie_ha_prevue  bɔli, tigɛli ni ɲɔ gosi sarala sɔngɔ : drm @fields.cout_prevu_recolte_battage "
 
 #. type=template
 #. The following strings should not be translated: 
@@ -6461,12 +6530,12 @@ msgstr ""
 #.      @fields.couts_totaux_prevus
 msgctxt "template"
 msgid "Coûts totaux prévisionnels pour @fields.superficie_ha_prevue ha: **@fields.couts_totaux_prevus drm**"
-msgstr ""
+msgstr "Taari @fields.superficie_ha_prevue  musaka mumɛ: drm @fields.couts_totaux_prevus "
 
 #. type=template
 msgctxt "template"
 msgid "*1 drm=5 FCFA*"
-msgstr ""
+msgstr "*1 drm=5 FCFA*"
 
 #. type=template
 #. The following strings should not be translated: 
@@ -6481,7 +6550,7 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "Suivant"
-msgstr ""
+msgstr "ɲɛfɛta"
 
 #. type=template
 msgctxt "template"
@@ -6625,7 +6694,7 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "<br><b style=\"color: #e67e22\">4. AUTRES COÛTS AU POST-SEMIS</b>"
-msgstr ""
+msgstr "<br><b style=\"color: #e67e22\">4.MUSAKA WƐRƐE DANNI KOFƐ</b>"
 
 #. type=template
 msgctxt "template"
@@ -6674,7 +6743,7 @@ msgstr ""
 #.      @fields.niveau_text
 msgctxt "template"
 msgid "**Frais annuels des @fields.nombre_enfants enfants du @fields.niveau_text de l'UPA sont**"
-msgstr ""
+msgstr "San Musakaw denmisɛn @fields.nombre_enfants  minnu bɛ @fields.niveau_text  la:"
 
 #. type=template
 msgctxt "template"
@@ -6749,7 +6818,8 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "<p style=\"color: black;\"> Les frais annuels de déplacement sont calculés en multipliant les frais journaliers par 160 jours (5 jours par semaine pendant 8 mois) </p>"
-msgstr ""
+msgstr "<p style=\"color: black;\">San kalanso ta'a ni ka segi musaka jateminɛ = tile kelen ka alanso ta'a ni ka segi musaka × 160 tile. Tile 160 ye tile 5 dɔgɔkun kɔnɔ, kalo 8 kɔnɔ.\n"
+"*1drm= 5 FCFA*</p>"
 
 #. type=template
 #. The string @fields.total_frais_deplacement should not be translated.
@@ -6783,7 +6853,8 @@ msgstr ""
 msgctxt "template"
 msgid "<p style=\"color: black;\">Les frais annuels de récréation sont calculés en multipliant les frais journaliers par 160 jours (5 jours par semaine pendant 8 mois)\n"
 " </p>"
-msgstr ""
+msgstr "<p style=\"color: black;\">San rɛkɛrɛyasiyon wari musaka jateminɛ = tile kelen rɛkɛrɛyasiyon wari musaka × 160 tile. Tile 160 ye tile 5 dɔgɔkun kɔnɔ, kalo 8 kɔnɔ.\n"
+"*1drm= 5 FCFA*</p>"
 
 #. type=template
 #. The string @fields.total_frais_recreation should not be translated.
@@ -6805,7 +6876,7 @@ msgstr ""
 #.      @fields.niveau_text
 msgctxt "template"
 msgid "**Frais totaux annuels des @fields.nombre_enfants enfants du @fields.niveau_text de l'UPA**"
-msgstr ""
+msgstr "San musaka mumɛ denmisɛn @fields.nombre_enfants  minnu bɛ @fields.niveau_text  la ka:"
 
 #. type=template
 #. The following strings should not be translated: 
@@ -6860,7 +6931,7 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "suivant"
-msgstr ""
+msgstr "ɲɛfɛta"
 
 #. type=template
 msgctxt "template"
@@ -6930,7 +7001,7 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "Choix de la composante"
-msgstr ""
+msgstr "A fɛnw sugandili"
 
 #. type=template
 msgctxt "template"
@@ -6940,7 +7011,7 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "PLANIFICATION"
-msgstr ""
+msgstr "BOLODALI"
 
 #. type=template
 msgctxt "template"
@@ -7094,7 +7165,7 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "*Veuillez sélectionner au moins une source pour continuer*!"
-msgstr ""
+msgstr "*Aw ka sɔrɔyɔrɔ kelen sugandi walasa ka taa ɲɛ*!"
 
 #. type=template
 #. The following strings should not be translated: 
@@ -7162,7 +7233,7 @@ msgstr ""
 #. The string @field.active_culture_name should not be translated.
 msgctxt "template"
 msgid "Culture : @field.active_culture_name"
-msgstr ""
+msgstr "Sɛnɛfen : @field.active_culture_name"
 
 #. type=template
 #. The following strings should not be translated: 
@@ -7242,7 +7313,7 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "*Mettez \"0\" si aucune fumure achetée*"
-msgstr ""
+msgstr "*Fu (0) sɛbɛ ni dannisi ma san*"
 
 #. type=template
 #. The following strings should not be translated: 
@@ -7603,7 +7674,7 @@ msgstr ""
 #.      @fields.culture_label
 msgctxt "template"
 msgid "**Les prévisions pour @fields.superficie_ha_prevue ha de @fields.culture_label sont:**"
-msgstr ""
+msgstr "**Ɲɛsigi taari @fields.superficie_ha_prevue kama @fields.culture_label  la:**"
 
 #. type=template
 msgctxt "template"
@@ -7842,19 +7913,19 @@ msgstr ""
 #. The string @local.culture_list_all should not be translated.
 msgctxt "template"
 msgid "Cultures prevues : **@local.culture_list_all**"
-msgstr ""
+msgstr "Sεnεfεn ɲεsigilenw: @local.culture_list_all"
 
 #. type=template
 #. The string @local.total_superficie_prevue should not be translated.
 msgctxt "template"
 msgid "La superficie totale des cultures prévues: **@local.total_superficie_prevue ha**"
-msgstr ""
+msgstr "Foro kεnε sεnεta mumε ɲεsigilen: taari @local.total_superficie_prevue"
 
 #. type=template
 #. The string @local.total_superficie_prevue_labour should not be translated.
 msgctxt "template"
 msgid "La superficie totale à labourer par prestation: **@local.total_superficie_prevue_labour ha**"
-msgstr ""
+msgstr "Foro kɛnɛ sεnεta mumε ɲɛsigilen laburulen sara la: taari @local.total_superficie_prevue_labour"
 
 #. type=template
 msgctxt "template"
@@ -7869,13 +7940,13 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "Scanner QR code"
-msgstr ""
+msgstr "Cikɛda nimɔrɔ lajɛ ni kamera ye."
 
 #. type=template
 #. The string @fields.culture_list_all should not be translated.
 msgctxt "template"
 msgid "REPARTITION DES QUANTITES D'ENGRAIS: @fields.culture_list_all"
-msgstr ""
+msgstr "SƐGƐNIW HAKƐW TILALI: @fields.culture_list_all "
 
 #. type=template
 #. The following strings should not be translated: 
@@ -7969,7 +8040,8 @@ msgstr ""
 msgctxt "template"
 msgid "Complexe coton 14-18-18: Total réparti (@local.total_source_npk_coton_14_18_18 sac) n'est pas égal au total des besoins (@fields.besoins_prevue_npk_coton_14_18_18 sac)\n"
 "La différence (sac) est: **@local.rappel_total_source_npk_coton_14_18_18**"
-msgstr ""
+msgstr "sukubɛ-sukubɛ kɔɔri 14-18-18: Tilalen mumɛ hakɛ (bɔrɛ @local.total_source_npk_coton_14_18_18) ani laɲini mumɛ hakɛ (bɔrɛ @fields.besoins_prevue_npk_coton_14_18_18) tɛ ben\n"
+"Danfara (bɔre) ye: **@local.rappel_total_source_npk_coton_14_18_18**"
 
 #. type=template
 #. The following strings should not be translated: 
@@ -7988,7 +8060,8 @@ msgstr ""
 msgctxt "template"
 msgid "Complexe céréale 15-15-15: Total réparti (@local.total_source_npk_cereal_15_15_15 sac) n'est pas égal au total des besoins (@fields.besoins_prevue_npk_cereale_15_15_15 sac)\n"
 "La différence (sac) est: **@local.rappel_total_source_npk_cereal_15_15_15**"
-msgstr ""
+msgstr "sukubɛ-sukubɛ suman 15-15-15: Tilalen mumɛ hakɛ (bɔrɛ @local.total_source_npk_cereal_15_15_15) ani laɲini mumɛ hakɛ ma (bɔrɛ @fields.besoins_prevue_npk_cereale_15_15_15) tɛ ben\n"
+"Danfara (bɔre) ye: **@local.rappel_total_source_npk_cereal_15_15_15**"
 
 #. type=template
 #. The following strings should not be translated: 
@@ -8007,7 +8080,8 @@ msgstr ""
 msgctxt "template"
 msgid "Complexe céréale 17-17-17: Total réparti  (@local.total_source_npk_cereal_17_17_17 sac) n'est pas égal au total des besoins (@fields.besoins_prevue_npk_cereale_17_17_17 sac)\n"
 "La différence (sac) est: **@local.rappel_total_source_npk_cereal_17_17_17**"
-msgstr ""
+msgstr "sukubɛ-sukubɛ suman 17-17-17 : Tilalen mumɛ hakɛ (bɔrɛ @local.total_source_npk_cereal_17_17_17) ani laɲini mumɛ hakɛ ma (bɔrɛ @fields.besoins_prevue_npk_cereale_17_17_17) tɛ ben\n"
+"Danfara (bɔre) ye:  **@local.rappel_total_source_npk_cereal_17_17_17**"
 
 #. type=template
 #. The following strings should not be translated: 
@@ -8026,7 +8100,8 @@ msgstr ""
 msgctxt "template"
 msgid "DAP: Total réparti @local.total_source_dap sac) n'est pas égal au total des besoins (@fields.besoins_prevue_dap sac)\n"
 "La différence (sac) est: **@local.rappel_total_source_dap**"
-msgstr ""
+msgstr "sɛgɛni fima mɔnikuru : Tilalen mumɛ hakɛ (bɔrɛ @local.total_source_dap) ani laɲini mumɛ hakɛ ma (bɔrɛ @fields.besoins_prevue_dap ) tɛ ben\n"
+"Danfara (bɔre) ye: **@local.rappel_total_source_dap**\""
 
 #. type=template
 #. The following strings should not be translated: 
@@ -8045,22 +8120,23 @@ msgstr ""
 msgctxt "template"
 msgid "Urée: Total réparti (@local.total_source_uree sac) n'est pas égal au total des besoins (@fields.besoins_prevus_uree sac)\n"
 "La différence (sac) est: **@local.rappel_total_source_uree**"
-msgstr ""
+msgstr "sɛgɛni jɛma : Tilalen mumɛ hakɛ (bɔrɛ @local.total_source_uree) ani laɲini mumɛ hakɛ ma (bɔrɛ @fields.besoins_prevus_uree) tɛ ben\n"
+"Danfara (bɔre) ye: **@local.rappel_total_source_uree**"
 
 #. type=template
 msgctxt "template"
 msgid "SUIVI DE CAMPAGNE"
-msgstr ""
+msgstr "SAMIƝƐ KƆLƆSILI"
 
 #. type=template
 msgctxt "template"
 msgid "Superficie Champs"
-msgstr ""
+msgstr "Foro kɛnɛ hakɛ"
 
 #. type=template
 msgctxt "template"
 msgid "Semis"
-msgstr ""
+msgstr "Danni"
 
 #. type=template
 msgctxt "template"
@@ -8070,7 +8146,7 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "Récolte"
-msgstr ""
+msgstr "KƆƆRIBƆ NI ƝƆTIGƐ"
 
 #. type=template
 msgctxt "template"
@@ -8096,7 +8172,7 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "<h2 style=\"color: #1B5E20; text-align: center; margin: 0;\">INVESTISSEMENT TOTAL UPA</h2>"
-msgstr ""
+msgstr "<h2 style=\"color: #1B5E20; text-align: center; margin: 0;\">CIKƐDA KA MUSAKA MUMƐ</h2>"
 
 #. type=template
 #. The following strings should not be translated: 
@@ -8143,7 +8219,7 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "We would need a recorder here in order to transmit observations or feedback regarding the form."
-msgstr ""
+msgstr "kuma taali "
 
 #. type=template
 #. The string @global.hint_qtite_son_prod should not be translated.
@@ -8353,13 +8429,13 @@ msgstr ""
 #. The string @fields.engrais_source_label should not be translated.
 msgctxt "template"
 msgid "Donnez le nombre de sac à obtenir à travers: @fields.engrais_source_label, de:"
-msgstr ""
+msgstr "Bɔrɛ hakɛ di min bɛna bɔ @fields.engrais_source_label  la:"
 
 #. type=template
 #. The string @fields.besoins_prevue_npk_coton_14_18_18 should not be translated.
 msgctxt "template"
 msgid "**Complexe coton 14-18-18, sur les @fields.besoins_prevue_npk_coton_14_18_18 sac prevu(s)**"
-msgstr ""
+msgstr "sukubɛ-sukubɛ kɔɔri 14-18-18 kan, bɔrɛ @fields.besoins_prevue_npk_coton_14_18_18  laɲini in la"
 
 #. type=template
 #. The following strings should not be translated: 
@@ -8382,7 +8458,7 @@ msgstr ""
 #. The string @fields.besoins_prevue_npk_cereale_15_15_15 should not be translated.
 msgctxt "template"
 msgid "**Complexe céréales 15-15-15, sur les @fields.besoins_prevue_npk_cereale_15_15_15 sac prevu(s)**"
-msgstr ""
+msgstr "sukubɛ-sukubɛ suman 15-15-15 kan, bɔrɛ @fields.besoins_prevue_npk_cereale_15_15_15  laɲini in la"
 
 #. type=template
 #. The following strings should not be translated: 
@@ -8399,13 +8475,13 @@ msgstr ""
 #. The string @fields.besoins_prevue_npk_cereale_15_15_15 should not be translated.
 msgctxt "template"
 msgid "Donnez une valeur valide entre 0 et @fields.besoins_prevue_npk_cereale_15_15_15"
-msgstr ""
+msgstr "Hakɛ dita man kan ka tɛmɛ laɲini mumɛ kan"
 
 #. type=template
 #. The string @fields.besoins_prevue_npk_cereale_17_17_17 should not be translated.
 msgctxt "template"
 msgid "**Complexe céréales 17-17-17, sur les @fields.besoins_prevue_npk_cereale_17_17_17 sac prevu(s)**"
-msgstr ""
+msgstr "sukubɛ-sukubɛ suman 17-17-17 kan, bɔrɛ @fields.besoins_prevue_npk_cereale_17_17_17  laɲini in la"
 
 #. type=template
 #. The following strings should not be translated: 
@@ -8422,13 +8498,13 @@ msgstr ""
 #. The string @fields.besoins_prevue_npk_cereale_17_17_17 should not be translated.
 msgctxt "template"
 msgid "Donnez une valeur valide entre 0 et @fields.besoins_prevue_npk_cereale_17_17_17"
-msgstr ""
+msgstr "Hakɛ dita man kan ka tɛmɛ laɲini mumɛ kan"
 
 #. type=template
 #. The string @fields.besoins_prevue_dap should not be translated.
 msgctxt "template"
 msgid "**DAP, sur les @fields.besoins_prevue_dap sac prevu(s)**"
-msgstr ""
+msgstr "sɛgɛni fima mɔnikuru kan bɔrɛ @fields.besoins_prevue_dap  laɲini in la"
 
 #. type=template
 #. The following strings should not be translated: 
@@ -8445,13 +8521,13 @@ msgstr ""
 #. The string @fields.besoins_prevue_dap should not be translated.
 msgctxt "template"
 msgid "Donnez une valeur valide entre 0 et @fields.besoins_prevue_dap"
-msgstr ""
+msgstr "Hakɛ dita man kan ka tɛmɛ laɲini mumɛ kan"
 
 #. type=template
 #. The string @fields.besoins_prevus_uree should not be translated.
 msgctxt "template"
 msgid "**L'urée, sur les @fields.besoins_prevus_uree sac prevu(s)**"
-msgstr ""
+msgstr "sɛgɛni jɛma kan, bɔrɛ @fields.besoins_prevus_uree  laɲini in la"
 
 #. type=template
 #. The following strings should not be translated: 
@@ -8468,7 +8544,7 @@ msgstr ""
 #. The string @fields.besoins_prevus_uree should not be translated.
 msgctxt "template"
 msgid "Donnez une valeur valide entre 0 et @fields.besoins_prevus_uree"
-msgstr ""
+msgstr "Hakɛ dita man kan ka tɛmɛ laɲini mumɛ kan"
 
 #. type=template
 #. The following strings should not be translated: 
@@ -8538,22 +8614,22 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "Entrez par écrit l'information supplémentaire."
-msgstr ""
+msgstr "Kunnafoni wɛrɛ sɛbɛn"
 
 #. type=template
 msgctxt "template"
 msgid "Enregistrez par vidéo l'information supplémentaire."
-msgstr ""
+msgstr "Kunnafoni wɛrɛ sɛbɛnni vidiyo la."
 
 #. type=template
 msgctxt "template"
 msgid "Enregistrez par vocal l'information supplémentaire."
-msgstr ""
+msgstr "Kunafoni kumakan fɛ"
 
 #. type=template
 msgctxt "template"
 msgid "Enregistrez par image l'information supplémentaire."
-msgstr ""
+msgstr "Kunafoni foto fɛ"
 
 #. type=template
 #. The following strings should not be translated: 
@@ -8567,32 +8643,32 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "Unité de Production Agricole (UPA)"
-msgstr ""
+msgstr "CIKƐDA KUNAFONI "
 
 #. type=template
 msgctxt "template"
 msgid "Caractéristiques de l'UPA"
-msgstr ""
+msgstr "CIKƐDA KƐ COGO"
 
 #. type=template
 msgctxt "template"
 msgid "Cartes des Champs"
-msgstr ""
+msgstr "JA WALAN"
 
 #. type=template
 msgctxt "template"
 msgid "Superficies des Cultures"
-msgstr ""
+msgstr "FƆRƆ"
 
 #. type=template
 msgctxt "template"
 msgid "Besoins Planifiés"
-msgstr ""
+msgstr "BALO NƐBILALENW"
 
 #. type=template
 msgctxt "template"
 msgid "Cout de Productions"
-msgstr ""
+msgstr "MUSAKAW"
 
 #. type=template
 msgctxt "template"
@@ -8602,12 +8678,12 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "Rendement"
-msgstr ""
+msgstr "SƆRƆ LAKIKA"
 
 #. type=template
 msgctxt "template"
 msgid "Observations"
-msgstr ""
+msgstr "KƆLƆSILIW"
 
 #. type=template
 msgctxt "template"
@@ -8793,19 +8869,19 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "**Superficie à cultiver pour le Maïs**"
-msgstr ""
+msgstr "**Kaba sɛnɛta kɛnɛ hakɛ**"
 
 #. type=template
 #. The string @fields.rend_moyen_mais should not be translated.
 msgctxt "template"
 msgid "<p style=\"color: black;\"> Rendement moyen: @fields.rend_moyen_mais sac de 100kg/ha </p>"
-msgstr ""
+msgstr "<p style=\"color: black;\">Sɔrɔ lakika bɛrɛ kɛɲɛ ye:  bɔrɛ @fields.rend_moyen_mais taari la</p>"
 
 #. type=template
 #. The string @fields.sac_mais should not be translated.
 msgctxt "template"
 msgid "<div style=\"color: #000000; font-size: 18px; font-weight: bold; text-transform: uppercase;\">La superficie pour @fields.sac_mais sacs de maïs est:</div>"
-msgstr ""
+msgstr "<div style=\"color: #000000; font-size: 18px; font-weight: bold; text-transform: uppercase;\">Kaba bɔrɛ @fields.sac_mais bɛ se ka sɔrɔ kɛnɛ hakɛ:</div> "
 
 #. type=template
 #. The string @local.superficie_mais should not be translated.
@@ -8816,19 +8892,19 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "**Superficie à cultiver pour le Mil**"
-msgstr ""
+msgstr "**Saɲɔ sɛnɛta kɛnɛ hakɛ**"
 
 #. type=template
 #. The string @fields.rend_moyen_mil should not be translated.
 msgctxt "template"
 msgid "<p style=\"color: black;\"> Rendement moyen: @fields.rend_moyen_mil sac de 100kg/ha </p>"
-msgstr ""
+msgstr "<p style=\"color: black;\">Sɔrɔ lakika bɛrɛ kɛɲɛ ye: bɔrɛ @fields.rend_moyen_mil taari la</p>"
 
 #. type=template
 #. The string @fields.sac_mil should not be translated.
 msgctxt "template"
 msgid "<div style=\"color: #000000; font-size: 18px; font-weight: bold; text-transform: uppercase;\">La superficie pour @fields.sac_mil sacs de mil est:</div>"
-msgstr ""
+msgstr "<div style=\"color: #000000; font-size: 18px; font-weight: bold; text-transform: uppercase;\">Saɲɔ bɔrɛ @fields.sac_mil bɛ se ka sɔrɔ kɛnɛ hakɛ :</div>"
 
 #. type=template
 #. The string @local.superficie_mil should not be translated.
@@ -8839,19 +8915,19 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "**Superficie à cultiver pour le Sorgho**"
-msgstr ""
+msgstr "**Keniŋe sɛnɛta kɛnɛ hakɛ**"
 
 #. type=template
 #. The string @fields.rend_moyen_sorgho should not be translated.
 msgctxt "template"
 msgid "<p style=\"color: black;\"> Rendement moyen: @fields.rend_moyen_sorgho sac de 100kg/ha </p>"
-msgstr ""
+msgstr "<p style=\"color: black;\">Sɔrɔ lakika bɛrɛ kɛɲɛ ye:  bɔrɛ @fields.rend_moyen_sorgho taari la</p>"
 
 #. type=template
 #. The string @fields.sac_sorgho should not be translated.
 msgctxt "template"
 msgid "<div style=\"color: #000000; font-size: 18px; font-weight: bold; text-transform: uppercase;\">La superficie pour @fields.sac_sorgho sacs de sorgho est:</div>"
-msgstr ""
+msgstr "<div style=\"color: #000000; font-size: 18px; font-weight: bold; text-transform: uppercase;\">Keniŋe bɔrɛ @fields.sac_sorgho bɛ se ka sɔrɔ kɛnɛ hakɛ :</div>"
 
 #. type=template
 #. The string @local.superficie_sorgho should not be translated.
@@ -8862,19 +8938,19 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "**Superficie à cultiver pour le Riz**"
-msgstr ""
+msgstr "**Malo sɛnɛta kɛnɛ hakɛ**"
 
 #. type=template
 #. The string @fields.rend_moyen_riz should not be translated.
 msgctxt "template"
 msgid "<p style=\"color: black;\"> Rendement moyen: @fields.rend_moyen_riz sac de 100kg/ha </p>"
-msgstr ""
+msgstr "<p style=\"color: black;\">Sɔrɔ lakika bɛrɛ kɛɲɛ ye: bɔrɛ @fields.rend_moyen_riz taari la</p>"
 
 #. type=template
 #. The string @fields.sac_riz should not be translated.
 msgctxt "template"
 msgid "<div style=\"color: #000000; font-size: 18px; font-weight: bold; text-transform: uppercase;\">La superficie pour @fields.sac_riz sacs de riz est:</div>"
-msgstr ""
+msgstr "<div style=\"color: #000000; font-size: 18px; font-weight: bold; text-transform: uppercase;\">Malo bɔrɛ @fields.sac_riz bɛ se ka sɔrɔ kɛnɛ hakɛ :</div>"
 
 #. type=template
 #. The string @local.superficie_riz should not be translated.
@@ -8885,12 +8961,12 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "**Superficie totale de maïs, mil, sorgho et riz**"
-msgstr ""
+msgstr "**Kaba, saɲɔ, keniŋe ni malo kɛnɛw dalajɛlen**"
 
 #. type=template
 msgctxt "template"
 msgid "<div style=\"color: #000000; font-size: 18px; font-weight: bold; text-transform: uppercase;\">La superficie cumulée de maïs, mil, sorgho et riz est:</div>"
-msgstr ""
+msgstr "<div style=\"color: #000000; font-size: 18px; font-weight: bold; text-transform: uppercase;\">Kaba, saɲɔ, keniŋe ni malo kɛnɛw dalajɛlen ye:</div>"
 
 #. type=template
 #. The string @local.superficie_totale should not be translated.
@@ -9142,7 +9218,7 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "We would need a audio recorder here"
-msgstr ""
+msgstr "An mako be kuma barani la "
 
 #. type=template
 msgctxt "template"
@@ -9215,7 +9291,7 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "*Rappel : 1 dram = 5 FCFA*"
-msgstr ""
+msgstr "*Hakili jigi : 1 dram = 5 FCFA*"
 
 #. type=template
 #. The following strings should not be translated: 
@@ -9337,7 +9413,7 @@ msgstr ""
 #. The string @fields.superficie_ha_prevue should not be translated.
 msgctxt "template"
 msgid "**Selectionnez le(s) type(s) d'engrais mineraux à utiliser pour @fields.superficie_ha_prevue ha**"
-msgstr ""
+msgstr "Sɛgɛniw sugugaw don taw foro kɛnɛ taari @fields.superficie_ha_prevue la sugandi:"
 
 #. type=template
 #. The following strings should not be translated: 
@@ -9370,7 +9446,7 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "**Donnez le nom \"autre engrais mineral**"
-msgstr ""
+msgstr "**Sɛgɛni wɛrɛ in tɔgɔ sɛbɛ**"
 
 #. type=template
 #. The following strings should not be translated: 
@@ -9435,7 +9511,7 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "<h4 style=\"color: #e3a730; border-bottom: 1px solid #eee; padding-bottom: 10px;\">Cultures enregistrées</h4>"
-msgstr ""
+msgstr "<h4 style=\"color: #e3a730; border-bottom: 1px solid #eee; padding-bottom: 10px;\">Sɛnɛfɛnw sɛbɛnnenw</h4>"
 
 #. type=template
 msgctxt "template"
@@ -9497,7 +9573,7 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "**Montant prévisionnel des dépenses annuelles de condiments**"
-msgstr ""
+msgstr "**Cikɛda ka san kelen na sɔngɔ musaka ɲɛbilata hakɛ ye**"
 
 #. type=template
 #. The following strings should not be translated: 
@@ -9683,7 +9759,7 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "observations"
-msgstr ""
+msgstr "kƆLƆSILIW"
 
 #. type=template
 msgctxt "template"
@@ -9761,7 +9837,7 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "PLANIFICATION CULTURES"
-msgstr ""
+msgstr "SƐNƐFENW ƝƐSIGILI"
 
 #. type=template
 #. The following strings should not be translated: 
@@ -9813,7 +9889,7 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "La superficie estimée (ha) était :"
-msgstr ""
+msgstr "Kɛnɛ boɲan hake dilen kunfɛ jate la (taari)"
 
 #. type=template
 msgctxt "template"
@@ -9916,7 +9992,7 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "Continuer"
-msgstr ""
+msgstr "Tɛmɛ ɲɛfɛ"
 
 #. type=template
 #. The following strings should not be translated: 
@@ -9951,7 +10027,7 @@ msgstr ""
 #.      @field.total_cultures_selected
 msgctxt "template"
 msgid "<div style=\"color: white; font-weight: bold; font-size: 14px;\">CULTURE @local.v_current_human / @field.total_cultures_selected </div>"
-msgstr ""
+msgstr "<div style=\"color: white; font-weight: bold; font-size: 14px;\">Sɛnɛfen @local.v_current_human / @field.total_cultures_selected</div>"
 
 #. type=template
 msgctxt "template"
